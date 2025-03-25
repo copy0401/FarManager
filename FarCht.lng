@@ -1,0 +1,4771 @@
+﻿.Language=Chinese,Chinese
+
+// Version: 3.0.6446.0 x64
+
+//[MYes]
+"Yes"
+//[MNo]
+"No"
+//[MOk]
+"OK"
+
+//[MHYes]
+"&Yes"
+//[MHNo]
+"&No"
+//[MHOk]
+"&OK"
+
+//[MCancel]
+"Cancel"
+//[MReset]
+"&Reset"
+//[MRetry]
+"Retry"
+//[MSkip]
+"Skip"
+//[MAbort]
+"Abort"
+//[MIgnore]
+"Ignore"
+//[MDelete]
+"Delete"
+
+//[MHCancel]
+"&Cancel"
+//[MHRetry]
+"&Retry"
+//[MHSkip]
+"&Skip"
+//[MHSkipAll]
+"S&kip all"
+//[MHAbort]
+"&Abort"
+//[MHIgnore]
+"&Ignore"
+//[MHDelete]
+"&Delete"
+//[MHRemove]
+"R&emove"
+//[MHSplit]
+"Sp&lit"
+
+//[MWarning]
+"Warning 警示"
+//[MError]
+"Error 錯誤"
+
+//[MQuit]
+"Quit 退出"
+//[MAskQuit]
+"Do you want to quit Far? 是否退出 Far?"
+
+// Panels: functional keys
+//[MF1]
+"Help 幫助"
+//[MF2]
+"UserMn 使用者選單"
+//[MF3]
+"View 檢視"
+//[MF4]
+"Edit 編輯"
+//[MF5]
+"Copy 複製"
+//[MF6]
+"RenMov 移動"
+//[MF7]
+"MkFold 建立目錄"
+//[MF8]
+"Delete 刪除"
+//[MF9]
+"ConfMn 設定選單"
+//[MF10]
+"Quit 退出"
+//[MF11]
+"Plugin 插件"
+//[MF12]
+"Screen 螢幕"
+
+//[MShiftF1]
+"Add 增加"
+//[MShiftF2]
+"Extrct 擷取"
+//[MShiftF3]
+"ArcCmd"
+//[MShiftF4]
+"Edit… 編輯"
+//[MShiftF5]
+"Copy 複製"
+//[MShiftF6]
+"Rename 重新命名"
+//[MShiftF7]
+""
+//[MShiftF8]
+"Delete 刪除"
+//[MShiftF9]
+"Save 保存"
+//[MShiftF10]
+"Last 最後的"
+//[MShiftF11]
+"Group 群組"
+//[MShiftF12]
+"SelUp 選擇是否"
+
+//[MAltF1]
+"Left 左"
+//[MAltF2]
+"Right 右"
+//[MAltF3]
+"View… 檢視"
+//[MAltF4]
+"Edit… 編輯"
+//[MAltF5]
+"Print 列印"
+//[MAltF6]
+"MkLink 建立連結"
+//[MAltF7]
+"Find 搜尋"
+//[MAltF8]
+"Histry 歷史紀錄"
+//[MAltF9]
+"Video 影片"
+//[MAltF10]
+"Tree 樹"
+//[MAltF11]
+"ViewHs 查看歷史紀錄"
+//[MAltF12]
+"FoldHs 折疊歷史紀錄"
+
+//[MCtrlF1]
+"Left 左"
+//[MCtrlF2]
+"Right 右"
+//[MCtrlF3]
+"Name 名稱"
+//[MCtrlF4]
+"Extens 擴充"
+//[MCtrlF5]
+"Write 寫入"
+//[MCtrlF6]
+"Size 大小"
+//[MCtrlF7]
+"Unsort 取消排列"
+//[MCtrlF8]
+"Creatn 創建"
+//[MCtrlF9]
+"Access 使用權"
+//[MCtrlF10]
+"Descr 描述"
+//[MCtrlF11]
+"Owner 擁有者"
+//[MCtrlF12]
+"Sort 排序"
+
+// Main AltShift
+//[MAltShiftF1]
+""
+//[MAltShiftF2]
+""
+//[MAltShiftF3]
+""
+//[MAltShiftF4]
+""
+//[MAltShiftF5]
+""
+//[MAltShiftF6]
+""
+//[MAltShiftF7]
+""
+//[MAltShiftF8]
+""
+//[MAltShiftF9]
+"ConfPl"
+//[MAltShiftF10]
+""
+//[MAltShiftF11]
+""
+//[MAltShiftF12]
+""
+
+// Main CtrlShift
+//[MCtrlShiftF1]
+""
+//[MCtrlShiftF2]
+""
+//[MCtrlShiftF3]
+"View 檢視"
+//[MCtrlShiftF4]
+"Edit 編輯"
+//[MCtrlShiftF5]
+""
+//[MCtrlShiftF6]
+""
+//[MCtrlShiftF7]
+""
+//[MCtrlShiftF8]
+""
+//[MCtrlShiftF9]
+""
+//[MCtrlShiftF10]
+""
+//[MCtrlShiftF11]
+""
+//[MCtrlShiftF12]
+""
+
+// Main CtrlAlt
+//[MCtrlAltF1]
+""
+//[MCtrlAltF2]
+""
+//[MCtrlAltF3]
+""
+//[MCtrlAltF4]
+""
+//[MCtrlAltF5]
+""
+//[MCtrlAltF6]
+""
+//[MCtrlAltF7]
+""
+//[MCtrlAltF8]
+""
+//[MCtrlAltF9]
+""
+//[MCtrlAltF10]
+""
+//[MCtrlAltF11]
+""
+//[MCtrlAltF12]
+""
+
+// Main CtrlAltShift
+//[MCtrlAltShiftF1]
+""
+//[MCtrlAltShiftF2]
+""
+//[MCtrlAltShiftF3]
+""
+//[MCtrlAltShiftF4]
+""
+//[MCtrlAltShiftF5]
+""
+//[MCtrlAltShiftF6]
+""
+//[MCtrlAltShiftF7]
+""
+//[MCtrlAltShiftF8]
+""
+//[MCtrlAltShiftF9]
+""
+//[MCtrlAltShiftF10]
+""
+//[MCtrlAltShiftF11]
+""
+// Panels: end of functional keys
+//[MCtrlAltShiftF12]
+""
+
+//[MHistoryTitle]
+"History 歷史紀錄"
+//[MHistoryInfoTitle]
+"Information 資訊"
+//[MHistoryInfoFolder]
+"Folder: 目錄:"
+//[MFolderHistoryTitle]
+"Folders history 目錄紀錄"
+//[MViewHistoryTitle]
+"File view and edit history 文件檢視和編輯歷史記錄"
+//[MViewHistoryIsCreate]
+"Create the file? 建立文件?"
+//[MHistoryView]
+"View 檢視"
+//[MHistoryEdit]
+"Edit 編輯"
+//[MHistoryExt]
+"Ext. 歷史擴充"
+
+//[MHistoryClear]
+"All records in the history will be deleted. Continue? 所有歷史記錄都將被刪除 繼續？"
+//[MClear]
+"&Clear history 清除歷史記錄"
+
+//[MConfigSystemTitle]
+"System settings 系統設定"
+//[MConfigRecycleBin]
+"&Delete to Recycle Bin 刪除到回收站"
+//[MConfigSystemCopy]
+"Use sys&tem copy routine 使用系統複製例程"
+//[MConfigCopySharing]
+"Copy files opened for &writing 複製已開啟以進行寫入的文件"
+//[MConfigScanJunction]
+"Scan s&ymbolic links 掃描符號連結"
+//[MConfigSmartFolderMonitor]
+"&Update panels only when Far is active 僅當 Far 處於活動狀態時更新面板"
+//[MConfigSaveHistory]
+"Save commands &history 保存命令歷史記錄"
+//[MConfigSaveFoldersHistory]
+"Save &folders history 保存資料夾歷史記錄"
+//[MConfigSaveViewHistory]
+"Save &view and edit history 保存檢視和編輯歷史記錄"
+//[MConfigRegisteredTypes]
+"Use Windows re&gistered types 使用 Windows 註冊類型"
+//[MConfigUpdateEnvironment]
+"Automatic update of &environment variables 環境變數自動更新"
+//[MConfigElevation]
+"Request administrator rights: 請求管理員權限:"
+//[MConfigElevationModify]
+"For &modification 對於修改"
+//[MConfigElevationRead]
+"For &reading 對於閱讀"
+//[MConfigElevationUsePrivileges]
+"Use additional &privileges 使用附加權限"
+//[MConfigSortingCollation]
+"Sorti&ng collation: 排序方式："
+//[MConfigSortingOrdinal]
+"ordinal 序數"
+//[MConfigSortingInvariant]
+"invariant 不變的"
+//[MConfigSortingLinguistic]
+"linguistic 語言"
+//[MConfigSortingDigitsAsNumbers]
+"Treat digits &as numbers 將數字視為數值"
+//[MConfigSortingCase]
+"&Case sensitive 區分大小寫"
+//[MConfigAutoSave]
+"Auto &save setup 自動保存設定"
+
+//[MConfigTreeTitle]
+"Tree settings 樹設定"
+//[MConfigTreeAutoChange]
+"&Auto change folder 自動更改資料夾"
+//[MConfigTreeLabelMinFolder]
+"&Minimum number of folders: 最小資料夾數量:"
+//[MConfigTreeLabel1]
+"Store a file with folder structure for: 儲存具有資料夾結構的檔案用於:"
+//[MConfigTreeLabelLocalDisk]
+"local drives 本機磁碟機"
+//[MConfigTreeLabelNetDisk]
+"network drives 網路磁碟機"
+//[MConfigTreeLabelNetPath]
+"network paths 網路路徑"
+//[MConfigTreeLabelRemovableDisk]
+"removable drives 卸除式儲存"
+//[MConfigTreeLabelCDDisk]
+"optical drives 光碟機"
+//[MConfigTreeLabelExceptPath]
+"Don't create the file for following drives and paths: 不要為以下磁碟機和路徑建立檔案:"
+//[MConfigTreeLabelSaveLocalPath]
+"Path for local, removale and optical drives: 本機,卸除式,光碟機的路徑:"
+//[MConfigTreeLabelSaveNetPath]
+"Path for network drives and paths: 網路磁碟機和路徑:"
+
+//[MConfigPanelTitle]
+"Panel settings 面板設定"
+//[MConfigHidden]
+"Show &hidden and system files 顯示隱藏系統檔案"
+//[MConfigHighlight]
+"Hi&ghlight files 高亮文件"
+//[MConfigSelectFolders]
+"Select &folders 選擇文件"
+//[MConfigRightClickSelect]
+"Right clic&k selects files 右鍵點擊 選擇文件"
+//[MConfigSortFolderExt]
+"Sort folder names by e&xtension 按副檔名對資料夾名稱進行排序"
+//[MConfigAllowReverseSort]
+"Allow re&verse sort modes 允許反向排序模式"
+//[MConfigAutoUpdateLimit]
+"&Disable automatic panel update 停用自動面板更新"
+//[MConfigAutoUpdateLimit2]
+"if ob&ject count exceeds 如果對象數量超過"
+//[MConfigAutoUpdateRemoteDrive]
+"Network drives autor&efresh 網路磁碟機自動刷新"
+//[MConfigShowColumns]
+"Show &column titles 顯示列標題"
+//[MConfigShowStatus]
+"Show &status line 顯示狀態行"
+//[MConfigDetailedJunction]
+"Detect volume mount &points 探測卷掛載點"
+//[MConfigShowTotal]
+"Show files &total information 顯示文件總訊息"
+//[MConfigShowFree]
+"Show f&ree size 顯示可用大小"
+//[MConfigShowScrollbar]
+"Show scroll&bar 顯示捲軸"
+//[MConfigShowScreensNumber]
+"Show background screens &number 顯示背景螢幕數量"
+//[MConfigShowSortMode]
+"Show sort &mode letter 顯示排序模式字母"
+//[MConfigShowDotsInRoot]
+"Show \"&..\" in root folders 在根資料夾中顯示"
+
+//[MConfigInterfaceTitle]
+"Interface settings 介面設定"
+//[MConfigClock]
+"&Clock 顯示時間"
+//[MConfigMouse]
+"M&ouse 使用滑鼠"
+//[MConfigKeyBar]
+"Show &key bar 顯示鍵欄"
+//[MConfigMenuBar]
+"Always show the &menu bar 始終顯示功能表欄"
+//[MConfigSaver]
+"&Screen saver 螢幕保護程式"
+//[MConfigSaverMinutes]
+"mi&nutes 分鐘"
+//[MConfigCopyTotal]
+"Show &total copy progress indicator 顯示總複製進度指示器"
+//[MConfigCopyTimeRule]
+"Show cop&ying time information 顯示複製時間訊息"
+//[MConfigDeleteTotal]
+"Show total &delete progress indicator 顯示總刪除進度指示器"
+//[MConfigPgUpChangeDisk]
+"Use Ctrl+Pg&Up to change drive 使用 Ctrl+PgUp 變更磁碟機"
+//[MConfigUseVirtualTerminalForRendering]
+"Use &Virtual Terminal for rendering 使用虛擬終端進行渲染"
+//[MConfigFullWidthAwareRendering]
+"Fullwidth-aware rendering 全寬感知渲染"
+//[MConfigFullWidthAwareRenderingGraphemeClustersDected1]
+"It appears that your terminal supports Unicode grapheme clusters.您的終端機似乎支援 Unicode 字元簇"
+//[MConfigFullWidthAwareRenderingGraphemeClustersDected2]
+"Unfortunately, Far does not support them yet. 不幸的是 Far 還不支援它們"
+//[MConfigFullWidthAwareRenderingGraphemeClustersDected3]
+"For best experience it is recommended to switch to codepoint-based rendering. 為獲得最佳體驗，建議切換為基於編碼點的渲染"
+//[MConfigFullWidthAwareRenderingGraphemeClustersDected4]
+"Consult the documentation of your terminal for advice on how to do this. 請參閱您終端機的說明文件 以獲得如何執行此操作的建議"
+//[MConfigClearType]
+"Cl&earType-friendly redraw (can be slow) 適合 ClearType 的重繪（速度可能較慢）"
+//[MConfigSetConsoleIcon]
+"Console &icon: 控制台圖示:"
+//[MConfigSetAdminConsoleIcon]
+"Alternate for &Administrator 備用管理員"
+//[MConfigTitleAddons]
+"Far &window title addons: Far 視窗標題插件:"
+
+//[MConfigDlgSetsTitle]
+"Dialog settings 對話方塊設定"
+//[MConfigDialogsEditHistory]
+"&History in dialog edit controls 對話方塊編輯控制項中的歷史記錄"
+//[MConfigDialogsEditBlock]
+"&Persistent blocks in edit controls 編輯控制項中的持久性區塊"
+//[MConfigDialogsDelRemovesBlocks]
+"&Del removes blocks in edit controls 刪除編輯控制項中的區塊"
+//[MConfigDialogsAutoComplete]
+"&AutoComplete in edit controls 編輯控制項中的自動完成功能"
+//[MConfigDialogsEULBsClear]
+"&Backspace deletes unchanged text 刪除未更改的文字"
+//[MConfigDialogsMouseButton]
+"Mouse click &outside a dialog closes it 按一下對話方塊外部的滑鼠可關閉該對話框"
+
+//[MConfigVMenuTitle]
+"Menu settings 選單設定"
+//[MConfigVMenuLBtnClick]
+"&Left mouse click outside a menu 在選單外點選滑鼠左鍵"
+//[MConfigVMenuRBtnClick]
+"&Right mouse click outside a menu 在選單外點選滑鼠右鍵"
+//[MConfigVMenuMBtnClick]
+"&Middle mouse click outside a menu 在選單外點選滑鼠中鍵"
+//[MConfigVMenuClickCancel]
+"Cancel menu 取消選單"
+//[MConfigVMenuClickApply]
+"Execute selected item 執行選定項目"
+//[MConfigVMenuClickIgnore]
+"Do nothing 取消變更"
+
+//[MConfigCmdlineTitle]
+"Command line settings 命令列設定"
+//[MConfigCmdlineEditBlock]
+"&Persistent blocks 持久性區塊"
+//[MConfigCmdlineDelRemovesBlocks]
+"&Del removes blocks 移除區塊"
+//[MConfigCmdlineAutoComplete]
+"&AutoComplete 自動完成"
+//[MConfigCmdlineUsePromptFormat]
+"Set command line prompt &format 設定命令列提示符格式"
+//[MConfigCmdlineUseHomeDir]
+"Use &home dir 使用 Home 目錄"
+//[MConfigCmdlinePromptFormatAdmin]
+"Administrator 管理者"
+
+//[MConfigAutoCompleteTitle]
+"AutoComplete settings 自動完成設定"
+
+//[MConfigAutoCompleteShowList]
+"&Show a list 顯示清單"
+
+//[MConfigAutoCompleteModalList]
+"&Modal mode 模態模式"
+
+//[MConfigAutoCompleteAutoAppend]
+"&Append the first matched item 追加第一個符合項"
+
+//[MConfigInfoPanelTitle]
+"InfoPanel settings 資訊面板設定"
+//[MConfigInfoPanelCNTitle]
+"Computer &name format 電腦名稱格式"
+//[MConfigInfoPanelCNPhysicalNetBIOS]
+"Physical NetBIOS 實體 NetBIOS"
+//[MConfigInfoPanelCNPhysicalDnsHostname]
+"Physical DNS hostname 實體 DNS 主機名"
+//[MConfigInfoPanelCNPhysicalDnsDomain]
+"Physical DNS domain 實體 DNS 網域"
+//[MConfigInfoPanelCNPhysicalDnsFullyQualified]
+"Physical DNS fully-qualified (FQDN) 實體 DNS 完全合格網域名稱"
+//[MConfigInfoPanelCNNetBIOS]
+"NetBIOS"
+//[MConfigInfoPanelCNDnsHostname]
+"DNS hostname DNS 主機名稱"
+//[MConfigInfoPanelCNDnsDomain]
+"DNS domain DNS 網域"
+//[MConfigInfoPanelCNDnsFullyQualified]
+"DNS fully-qualified (FQDN) DNS 完全合格網域名稱"
+//[MConfigInfoPanelUNTitle]
+"&User name format 使用者名稱格式"
+//[MConfigInfoPanelUNLogon]
+"Logon name 登入名"
+//[MConfigInfoPanelUNFullyQualifiedDN]
+"Fully Qualified Domain Name (FQDN) 完全合格網域名稱"
+//[MConfigInfoPanelUNSamCompatible]
+"Sam Compatible Sam 相容的"
+//[MConfigInfoPanelUNDisplay]
+"Display Name 顯示名稱"
+//[MConfigInfoPanelUNUniqueId]
+"Unique Id 唯一 ID"
+//[MConfigInfoPanelUNCanonical]
+"Canonical Name 規範名稱"
+//[MConfigInfoPanelUNUserPrincipal]
+"User Principial Name 使用者主體名稱"
+//[MConfigInfoPanelUNServicePrincipal]
+"Service Principal 服務主體"
+//[MConfigInfoPanelUNDnsDomain]
+"DNS domain DNS 網域"
+//[MConfigInfoPanelUNGivenName]
+"Given name 給定的名稱"
+//[MConfigInfoPanelUNSurname]
+"Surname 姓氏"
+//[MConfigInfoPanelShowPowerStatus]
+"Show &power status 顯示電源狀態"
+//[MConfigInfoPanelShowCDInfo]
+"Show &CD drive parameters 顯示 CD 光碟機參數"
+
+//[MMenuInfoShowModeTitle]
+"顯示訊息"
+//[MMenuInfoShowModeDisk]
+"&Disk 磁碟"
+//[MMenuInfoShowModeMemory]
+"&Memory 記憶體"
+//[MMenuInfoShowModeDirDiz]
+"&Description 描述"
+//[MMenuInfoShowModePluginDiz]
+"Plu&gin panel 插件面板"
+//[MMenuInfoShowModePower]
+"&Power status 電源狀態"
+
+//[MViewConfigTitle]
+"Viewer 檢視器"
+//[MViewConfigExternalF3]
+"Use external viewer for F&3 instead of Alt+F3 使用外部檢視器按 F3 而不是 Alt+F3"
+//[MViewConfigExternalCommand]
+"&Viewer command: 檢視器命令:"
+//[MViewConfigInternal]
+"Internal viewer 內部檢視"
+//[MViewConfigSavePos]
+"&Save file position 保存檔案位置"
+//[MViewConfigSaveShortPos]
+"Save &bookmarks 保存書籤"
+//[MViewConfigSaveCodepage]
+"Save file &code page 保存檔案和代碼頁"
+//[MViewConfigSaveWrapMode]
+"Save w&rap mode 保存換行模式"
+//[MViewConfigSaveViewMode]
+"Save vi&ew mode 保存檢視模式"
+//[MViewConfigDetectDumpMode]
+"Detect d&ump view mode 偵測轉儲視圖模式"
+//[MViewAutoDetectCodePage]
+"&Autodetect code page 自動偵測代碼頁"
+//[MViewConfigTabSize]
+"&Tab size Tab 大小"
+//[MViewConfigScrollbar]
+"Show scro&llbar 顯示捲軸"
+//[MViewConfigArrows]
+"Show scrolling arro&ws 顯示滾動箭頭"
+//[MViewConfigPersistentSelection]
+"&Persistent selection 持續選擇"
+//[MViewConfigDefaultCodePage]
+"&Default code page: 預設代碼頁:"
+//[MViewConfigMaxLineSize]
+"&Maximum line width 最大線寬"
+//[MViewConfigVisible0x00]
+"Visible '\\&0' 可見的"
+
+//[MEditConfigTitle]
+"Editor 編輯器"
+//[MEditConfigEditorF4]
+"Use external editor for F&4 instead of Alt+F4 使用外部編輯器按 F4 鍵代替 Alt+F4"
+//[MEditConfigEditorCommand]
+"&Editor command: 編輯器命令:"
+//[MEditConfigInternal]
+"Internal editor 內部編輯"
+//[MEditConfigExpandTabsTitle]
+"Expand &tabs: 展開標籤:"
+
+//[MEditConfigDoNotExpandTabs]
+"Do not expand tabs 不要展開標籤"
+//[MEditConfigExpandTabs]
+"Expand newly entered tabs to spaces 將新輸入的製表符擴展為空格"
+//[MEditConfigConvertAllTabsToSpaces]
+"Expand all tabs to spaces 將所有製表符擴展為空格"
+//[MEditConfigPersistentBlocks]
+"&Persistent blocks 持久區塊"
+
+//[MEditConfigDelRemovesBlocks]
+"&Del removes blocks 刪除區塊"
+//[MEditConfigAutoIndent]
+"Auto &indent 自動縮排"
+//[MEditConfigSavePos]
+"&Save file position 保存檔案位置"
+//[MEditConfigSaveShortPos]
+"Save &bookmarks 保存書籤"
+//[MEditCursorBeyondEnd]
+"&Cursor beyond end of line 游標超出行尾"
+//[MEditAutoDetectCodePage]
+"&Autodetect code page 自動偵測代碼頁"
+//[MEditShareWrite]
+"Allow editing files ope&ned for writing 允許編輯開啟並寫入的檔案"
+//[MEditLockROFileModification]
+"Lock editing of read-only &files 鎖定唯讀檔案編輯"
+//[MEditWarningBeforeOpenROFile]
+"&Warn when opening read-only files 開啟唯讀檔案時發出警告"
+//[MEditConfigTabSize]
+"Tab si&ze Tab 大小"
+//[MEditConfigScrollbar]
+"S&how scrollbar 顯示捲軸"
+//[MEditShowWhiteSpace]
+"Sh&ow white space 顯示白空格"
+//[MEditConfigSelFound]
+"Se&lect found 選擇找到的"
+//[MEditConfigCursorAtEnd]
+"Cu&rsor at the end 遊標位於末尾"
+//[MEditConfigDefaultCodePage]
+"Default code pa&ge: 預設代碼頁:"
+//[MConfigEditor]
+"Configuration editor 配置編輯器"
+
+//[MSaveSetupTitle]
+"Save setup 保存設定"
+//[MSaveSetupAsk1]
+"Do you wish to save 您要保存嗎"
+//[MSaveSetupAsk2]
+"current setup? 目前設定?"
+//[MSaveSetup]
+"Save 保存"
+
+//[MCopyDlgTitle]
+"Copy"
+//[MMoveDlgTitle]
+"Rename/Move"
+//[MLinkDlgTitle]
+"Link"
+//[MCopySecurity]
+"&Access rights: 存取權限:"
+//[MCopySecurityDefault]
+"Defau&lt"
+//[MCopySecurityCopy]
+"Co&py"
+//[MCopySecurityInherit]
+"&Inherit 繼承"
+//[MCopyIfFileExist]
+"Already e&xisting files: 已存在的文件:"
+//[MCopyAsk]
+"&Ask"
+//[MCopyAskRO]
+"Also ask on &R/O files"
+//[MCopyOnlyNewerFiles]
+"Only ne&wer file(s)"
+//[MLinkType]
+"Link t&ype:"
+//[MLinkTypeJunction]
+"directory &junction"
+//[MLinkTypeHardlink]
+"&hard link"
+//[MLinkTypeSymlink]
+"&symbolic link"
+//[MLinkTypeSymlinkFile]
+"symbolic link (&file)"
+//[MLinkTypeSymlinkDirectory]
+"symbolic link (fol&der)"
+//[MCopyPreserveAllTimestamps]
+"Preserve all timestamps 保留所有時間戳"
+//[MCopySymLinkContents]
+"Cop&y contents of symbolic links 複製符號連結的內容"
+//[MCopyMultiActions]
+"Process &multiple destinations"
+//[MCopyDlgCopy]
+"&Copy"
+//[MCopyDlgTree]
+"F10-&Tree"
+//[MCopyDlgCancel]
+"Ca&ncel"
+//[MCopyDlgRename]
+"&Rename"
+//[MCopyDlgLink]
+"Create &link"
+//[MCopyDlgTotal]
+"Total 全部的"
+//[MCopyPrepareSecury]
+"Applying access rights… 正在應用存取權限..."
+//[MCopyUseFilter]
+"&Use filter 使用過濾器"
+//[MCopySetFilter]
+"Filt&er 過濾器"
+
+//[MCopyFile]
+"Copy {0} {1}:"
+//[MMoveFile]
+"Rename or move {0} {1}:"
+//[MLinkFile]
+"Create link to {0} {1}:"
+//[MCopyFiles]
+"Copy {0} item{1} {2}:"
+//[MMoveFiles]
+"Rename or move {0} item{1} {2}:"
+//[MLinkFiles]
+"Create links to {0} item{1} {2}:"
+//[MCMLTargetTO]
+"t&o"
+//[MCMLTargetIN]
+"&in"
+//[MCMLItems0]
+""
+//[MCMLItemsA]
+"s"
+//[MCMLItemsS]
+"s"
+
+//[MCopyIncorrectTargetList]
+"Incorrect target list 錯誤的目標列表"
+
+//[MCopyCopyingTitle]
+"Copying 複製中"
+//[MCopyMovingTitle]
+"Moving 移動中"
+
+//[MCopyCannotFind]
+"Cannot find the file 找不到文件"
+
+//[MCannotCopyFolderToItself1]
+"Cannot copy the folder 無法複製資料夾"
+//[MCannotCopyFolderToItself2]
+"onto itself 到自身上"
+
+//[MCopyCannotCreateFolder]
+"Cannot create the folder 無法建立資料夾"
+//[MCopyCannotRenameFolder]
+"Cannot rename the folder 無法重新命名資料夾"
+//[MCopyIgnore]
+"&Ignore 忽略"
+//[MCopyIgnoreAll]
+"Ignore &All 全部忽略"
+//[MCopyRetry]
+"&Retry 重試"
+//[MCopySkip]
+"&Skip 跳過"
+//[MCopySkipAll]
+"S&kip all 全部跳過"
+//[MCopyCancel]
+"&Cancel 取消"
+//[MCopyDecrypt]
+"&Decrypt 解密"
+//[MCopyDecryptAll]
+"Decrypt &all 全部解密"
+
+//[MCopyCannotCreateLink]
+"Cannot create the link 無法建立連結"
+//[MCopyFolderNotEmpty]
+"Target folder must be empty 目標資料夾必須為空"
+//[MCopyCannotCreateJunctionToFile]
+"Cannot create junction. The file already exists: 無法建立連線 文件已存在:"
+
+//[MCopyCannotCreateVolMount]
+"Volume mount points error 卷掛載點錯誤"
+//[MCopyMountVolFailed]
+"Attempt to volume mount '{0}' 嘗試卷宗掛載'{0}'"
+//[MCopyMountVolFailed2]
+"at '{0}' failed 在'{0}' 失敗"
+//[MCopyMountName]
+"Disk_ 磁碟_"
+
+//[MCannotCopyFileToItself1]
+"Cannot copy the file 無法複製文件"
+//[MCannotCopyFileToItself2]
+"onto itself 到自身上"
+
+//[MCopyStream1]
+"The source file contains more than one data stream, 來源檔案包含多個資料流"
+//[MCopyStream2]
+"but you're not using the system copy routine. 但你沒有使用系統複製程序"
+//[MCopyStream3]
+"but the destination volume does not support this feature. 但目標卷不支援此功能"
+//[MCopyStream4]
+"Some data will not be preserved. 部分資料將不會保留"
+
+//[MCopyDirectoryOrFile]
+"Does it specify a folder name or file name? 它是否指定了資料夾名稱或檔案名稱?"
+//[MCopyDirectoryOrFileDirectory]
+"Folder 資料夾"
+//[MCopyDirectoryOrFileFile]
+"File 文件"
+
+//[MCopyFileExist]
+"File already exists 文件已存在"
+//[MCopySource]
+"&New"
+//[MCopyDest]
+"E&xisting 現有的"
+//[MCopyOverwrite]
+"&Overwrite 覆蓋"
+//[MCopyAppend]
+"A&ppend Append"
+//[MCopyRename]
+"R&ename 重新命名"
+//[MCopyRememberChoice]
+"&Remember choice 記住選擇"
+//[MCopyRenameTitle]
+"Rename 重新命名"
+//[MCopyRenameText]
+"&New name: 新名稱:"
+
+//[MCopyFileRO]
+"The file is read only 該文件是唯讀的"
+//[MCopyAskDelete]
+"Do you wish to delete it? 你想刪除它嗎?"
+//[MCopyDeleteRO]
+"&Delete 刪除"
+//[MCopyDeleteAllRO]
+"&All 全部"
+
+//[MCannotCopy]
+"Cannot copy 無法複製"
+//[MCannotMove]
+"Cannot move 無法移動"
+//[MCannotLink]
+"Cannot link 無法連結"
+//[MCannotCopyTo]
+"to 至"
+//[MCopyEncryptWarn1]
+"The file 文件"
+//[MCopyEncryptWarn2]
+"cannot be copied or moved without losing its encryption. 無法複製或移動 否則會遺失其加密"
+
+//[MCopyReadError]
+"Cannot read data from 無法從以下位置讀取數據"
+//[MCopyWriteError]
+"Cannot write data to 無法將資料寫入"
+//[MCopyCannotReserveSpace]
+"Error reserving disk space 保留磁碟空間錯誤"
+
+//[MCopyFilesTotalInfo]
+"Files: 文件:"
+//[MCopyBytesTotalInfo]
+"Bytes: 位元組:"
+//[MCopyMoving]
+"Moving the file 移動檔案"
+//[MCopyCopying]
+"Copying the file 複製文件"
+//[MCopyTo]
+"to 至"
+
+//[MDeleteTitle]
+"Delete 刪除"
+//[MAskDelete]
+"Do you wish to delete {0}? 您是否希望刪除?"
+//[MAskDeleteRecycle]
+"Do you wish to move {0} to the Recycle Bin? 您是否希望移至回收站"
+//[MDeleteWipeTitle]
+"Wipe 擦除"
+//[MAskWipe]
+"Do you wish to wipe {0}? 您是否希望擦除?"
+//[MAskDeleteFolder]
+"the folder 資料夾"
+//[MAskDeleteFile]
+"the file 文件"
+//[MAskDeleteObjects]
+"the objects 物件"
+//[MAskDeleteLink]
+"a link to 連結至"
+//[MAskDeleteAndMore]
+"…and {0} more …還有更多 {0} "
+
+//[MDeleteFolderTitle]
+"Delete folder 刪除目錄"
+//[MWipeFolderTitle]
+"Wipe folder 擦除目錄"
+//[MDeleteFilesTitle]
+"Delete files 刪除文件"
+//[MWipeFilesTitle]
+"Wipe files 擦除文件"
+//[MDeleteFolderConfirm]
+"The following folder will be deleted: 以下資料夾將會被刪除:"
+//[MWipeFolderConfirm]
+"The following folder will be wiped: 以下資料夾將會被擦除:"
+//[MRecycleFolderConfirm]
+"The following folder will be moved to the Recycle Bin: 以下資料夾將會移至回收站:"
+//[MRecycleFolderConfirmDeleteLink1]
+"Folder contains symbolic links. 資料夾包含符號連結"
+//[MRecycleFolderConfirmDeleteLink2]
+"To prevent the loss of their content when clearing Recyle Bin 避免在清空回收站時遺失內容"
+//[MRecycleFolderConfirmDeleteLink3]
+"those links will be broken now. 這些連結現在將被破壞"
+//[MRecycleFolderConfirmDeleteLink4]
+"It would be impossible to restore them later. 以後不可能再恢復"
+//[MDeleteWipe]
+"Wipe 擦除"
+//[MDeleteRecycle]
+"Move 移動"
+//[MDeleteFileDelete]
+"&Delete 刪除"
+//[MDeleteFileWipe]
+"&Wipe 擦除"
+//[MDeleteFileAll]
+"&All 全部"
+//[MDeleteFileSkip]
+"&Skip 跳過"
+//[MDeleteFileSkipAll]
+"S&kip all 全部跳過"
+//[MDeleteFileCancel]
+"&Cancel 取消"
+
+//[MDeletingTitle]
+"Deleting 刪除中"
+
+//[MDeleting]
+"Deleting the file or folder 刪除檔案或資料夾"
+//[MDeletingWiping]
+"Wiping the file or folder 擦除檔案或資料夾"
+
+//[MDeleteRO]
+"The file is read only 該文件是唯讀的"
+//[MAskDeleteRO]
+"Do you wish to delete it ? 你想刪除它嗎?"
+//[MAskWipeRO]
+"Do you wish to wipe it? 你想擦除它嗎?"
+
+//[MDeleteHardLink1]
+"Several hard links link to this file. 有多個硬連結連結到此文件"
+//[MDeleteHardLink2]
+"Wiping this file will void all files linking to it. 擦除此文件將使連結到它的所有文件無效"
+//[MDeleteHardLink3]
+"Do you wish to wipe this file? 您想擦除這個檔案嗎?"
+
+//[MCannotDeleteFile]
+"Cannot delete the file 無法刪除文件"
+//[MCannotDeleteFolder]
+"Cannot delete the folder 無法刪除資料夾"
+//[MDeleteRetry]
+"&Retry 重試"
+//[MDeleteSkip]
+"&Skip 跳過"
+//[MDeleteSkipAll]
+"S&kip all 全部跳過"
+//[MDeleteCancel]
+"&Cancel 取消"
+//[MCannotRecycleFile]
+"Cannot move file to the Recycle Bin 無法將文件移至回收站"
+//[MCannotRecycleFolder]
+"Cannot move folder to the Recycle Bin 無法將資料夾移至回收站"
+//[MTryToDeletePermanently]
+"Try to delete it permanently? 嘗試永久刪除它?"
+
+//[MCannotGetSecurity]
+"Cannot get file access rights for 無法取得檔案存取權限"
+//[MCannotSetSecurity]
+"Cannot set file access rights for 無法設定檔案存取權限"
+
+//[MSearchReplaceSearchTitle]
+"Search 搜尋"
+
+//[MSearchReplaceReplaceTitle]
+"Replace 取代"
+//[MSearchReplaceText]
+"&Text 文字"
+//[MSearchReplaceHex]
+"&Hex 十六進位"
+//[MSearchReplacePickWord]
+"W&ord 單字"
+//[MSearchReplacePickSelection]
+"Se&lection 選擇"
+//[MSearchReplaceSearchFor]
+"&Search for 搜尋於"
+//[MSearchReplaceReplaceWith]
+"&Replace with 取代於"
+//[MSearchReplaceCase]
+"&Case sensitive 區分大小寫"
+//[MSearchReplaceWholeWords]
+"&Whole words 整個單字"
+//[MSearchReplaceFuzzy]
+"Fu&zzy search 模糊搜尋"
+//[MSearchReplaceRegexp]
+"R&egular expressions 正規表示式"
+//[MSearchReplacePreserveStyle]
+"&Preserve style 保留風格"
+//[MSearchReplaceFind]
+"Find 尋找"
+//[MSearchReplaceFindNext]
+"Find next 尋找下一個"
+//[MSearchReplaceFindPrev]
+"Find pre&vious 尋找上一個"
+//[MSearchReplaceReplace]
+"Replace 取代"
+//[MSearchReplaceReplaceNext]
+"Replace next 取代下一個"
+//[MSearchReplaceReplacePrev]
+"Replace pre&vious 取代上一個"
+//[MSearchReplaceAll]
+"&All 全部"
+//[MSearchReplaceCancel]
+"Cancel 取消"
+
+//[MEditTitle]
+"Editor 編輯器"
+//[MAskReload]
+"already loaded. How to open this file? 已載入 如何開啟此文件?"
+//[MCurrent]
+"&Current 目前的"
+//[MReload]
+"R&eload 重新加載"
+//[MNewOpen]
+"&New instance 新實例"
+//[MEditCannotOpen]
+"Cannot open the file 無法開啟文件"
+//[MEditReading]
+"Reading the file {0} 讀取文件"
+//[MEditAskSave]
+"File has been modified. Save? 文件已被修改 保存?"
+//[MEditAskSaveExt]
+"The file was changed by an external program. Save? 該文件已被外部程式修改 保存"
+//[MEditBtnSaveAs]
+"Save &as… 另存為"
+
+//[MEditRO]
+"is a read-only file 是唯讀文件"
+//[MEditExists]
+"already exists 已經存在"
+//[MEditOvr]
+"Do you wish to overwrite it? 您想要覆蓋它嗎?"
+//[MEditSaving]
+"Saving the file {0} 保存文件"
+// Up to 3 characters
+//[MEditStatusLine]
+"Ln"
+// Up to 3 characters
+//[MEditStatusCol]
+"Col"
+// Up to 2 characters
+//[MEditStatusChar]
+"Ch"
+
+//[MEditRSH]
+"is a read-only file 是唯讀文件"
+//[MEditFileGetSizeError]
+"File size could not be determined. 無法確定檔案大小"
+//[MEditFileLong]
+"has the size of {0}, 大小為"
+//[MEditFileLong2]
+"which exceeds the configured maximum size of {0}. 超出了配置的最大大小"
+//[MEditROOpen]
+"Do you wish to edit it? 您是否希望編輯它?"
+
+//[MEditCanNotEditDirectory]
+"It is impossible to edit the folder 無法編輯資料夾"
+
+//[MEditSearchingFor]
+"Searching for {0} 搜尋於"
+//[MEditSearchStatistics]
+"Occurrences: {0}, lines: {1} 出現次數: {0} 行數: {1}"
+//[MEditNotFound]
+"Could not find the string 找不到字串"
+
+//[MEditAskReplace]
+"Replace 取代"
+//[MEditAskReplaceWith]
+"with 為"
+//[MEditReplace]
+"&Replace 取代"
+//[MEditReplaceAll]
+"&All 全部"
+//[MEditSkip]
+"&Skip 跳過"
+//[MEditCancel]
+"&Cancel 取消"
+//[MEditOpenCreateLabel]
+"&Open/create file: 開啟/建立文件:"
+//[MEditOpenAutoDetect]
+"Automatic detection 自動偵測"
+//[MDefaultCP]
+"Default 預設"
+
+//[MGoTo]
+"Go to 跳至"
+//[MGoToHex]
+"&Hex value 十六進位值"
+
+//[MFolderShortcutsTitle]
+"Folder shortcuts 資料夾快捷方式"
+//[MShortcutNone]
+"<none>"
+//[MShortcutPlugin]
+"<plugin>"
+//[MFSShortcutName]
+"Title:"
+//[MFSShortcutPath]
+"Path:"
+//[MFSShortcutPluginFile]
+"File:"
+//[MFSShortcutPluginData]
+"Data:"
+//[MNeedNearPath]
+"Jump to the nearest existing folder? 跳到最近的現有資料夾?"
+//[MSaveThisShortcut]
+"Save this shortcut? 保存此快捷方式"
+
+// Editor: functional keys
+//[MEditF1]
+"Help 幫助"
+//[MEditF2]
+"Save 保存"
+//[MEditF3]
+""
+//[MEditF4]
+"Quit 退出"
+//[MEditF5]
+""
+//[MEditF6]
+"View 檢視"
+//[MEditF7]
+"Search 搜尋"
+//[MEditF8]
+"ANSI"
+//[MEditF9]
+""
+//[MEditF10]
+"Quit 退出"
+//[MEditF11]
+"Plugin 插件"
+//[MEditF12]
+"Screen 螢幕"
+
+// Editor: Shift
+//[MEditShiftF1]
+""
+//[MEditShiftF2]
+"SaveAs 另存"
+//[MEditShiftF3]
+""
+//[MEditShiftF4]
+"Edit… 編輯"
+//[MEditShiftF5]
+""
+//[MEditShiftF6]
+""
+//[MEditShiftF7]
+"Next 下一個"
+//[MEditShiftF8]
+"CodePg 字碼頁"
+//[MEditShiftF9]
+""
+//[MEditShiftF10]
+"SaveQ"
+//[MEditShiftF11]
+""
+//[MEditShiftF12]
+""
+
+// Editor: Alt
+//[MEditAltF1]
+""
+//[MEditAltF2]
+""
+//[MEditAltF3]
+""
+//[MEditAltF4]
+""
+//[MEditAltF5]
+""
+//[MEditAltF6]
+""
+//[MEditAltF7]
+"Prev 上一個"
+//[MEditAltF8]
+"Goto 跳至"
+//[MEditAltF9]
+"Video 	視頻"
+//[MEditAltF10]
+""
+//[MEditAltF11]
+"ViewHs"
+//[MEditAltF12]
+""
+
+// Editor: Ctrl
+//[MEditCtrlF1]
+""
+//[MEditCtrlF2]
+""
+//[MEditCtrlF3]
+""
+//[MEditCtrlF4]
+""
+//[MEditCtrlF5]
+""
+//[MEditCtrlF6]
+""
+//[MEditCtrlF7]
+"Replac 取代"
+//[MEditCtrlF8]
+""
+//[MEditCtrlF9]
+""
+//[MEditCtrlF10]
+"GoFile 前往文件"
+//[MEditCtrlF11]
+""
+//[MEditCtrlF12]
+""
+
+// Editor: AltShift
+//[MEditAltShiftF1]
+""
+//[MEditAltShiftF2]
+""
+//[MEditAltShiftF3]
+""
+//[MEditAltShiftF4]
+""
+//[MEditAltShiftF5]
+""
+//[MEditAltShiftF6]
+""
+//[MEditAltShiftF7]
+""
+//[MEditAltShiftF8]
+""
+//[MEditAltShiftF9]
+"Config 設定"
+//[MEditAltShiftF10]
+""
+//[MEditAltShiftF11]
+""
+//[MEditAltShiftF12]
+""
+
+// Editor: CtrlShift
+//[MEditCtrlShiftF1]
+""
+//[MEditCtrlShiftF2]
+""
+//[MEditCtrlShiftF3]
+""
+//[MEditCtrlShiftF4]
+""
+//[MEditCtrlShiftF5]
+""
+//[MEditCtrlShiftF6]
+""
+//[MEditCtrlShiftF7]
+""
+//[MEditCtrlShiftF8]
+""
+//[MEditCtrlShiftF9]
+""
+//[MEditCtrlShiftF10]
+""
+//[MEditCtrlShiftF11]
+""
+//[MEditCtrlShiftF12]
+""
+
+// Editor: CtrlAlt
+//[MEditCtrlAltF1]
+""
+//[MEditCtrlAltF2]
+""
+//[MEditCtrlAltF3]
+""
+//[MEditCtrlAltF4]
+""
+//[MEditCtrlAltF5]
+""
+//[MEditCtrlAltF6]
+""
+//[MEditCtrlAltF7]
+""
+//[MEditCtrlAltF8]
+""
+//[MEditCtrlAltF9]
+""
+//[MEditCtrlAltF10]
+""
+//[MEditCtrlAltF11]
+""
+//[MEditCtrlAltF12]
+""
+
+// Editor: CtrlAltShift
+//[MEditCtrlAltShiftF1]
+""
+//[MEditCtrlAltShiftF2]
+""
+//[MEditCtrlAltShiftF3]
+""
+//[MEditCtrlAltShiftF4]
+""
+//[MEditCtrlAltShiftF5]
+""
+//[MEditCtrlAltShiftF6]
+""
+//[MEditCtrlAltShiftF7]
+""
+//[MEditCtrlAltShiftF8]
+""
+//[MEditCtrlAltShiftF9]
+""
+//[MEditCtrlAltShiftF10]
+""
+//[MEditCtrlAltShiftF11]
+""
+//[MEditCtrlAltShiftF12]
+""
+// Editor: end of functional keys
+// This is another text for F8
+//[MEditF8DOS]
+"OEM"
+
+//[MEditSaveAs]
+"Save file &as 另存文件"
+//[MEditCodePage]
+"&Code page: 字碼頁:"
+//[MEditAddSignature]
+"Add &signature (BOM)"
+//[MEditSaveAsFormatTitle]
+"Change line breaks to: 將換行符號更改為:"
+//[MEditSaveOriginal]
+"Do n&ot change 不改變"
+//[MEditSaveDOS]
+"&Dos/Windows format (CR LF)"
+//[MEditSaveUnix]
+"&Unix format (LF)"
+//[MEditSaveMac]
+"&Mac format (CR)"
+//[MEditCannotSave]
+"Cannot save the file 無法保存文件"
+//[MEditSavedChangedNonFile]
+"The file is changed but the file or the folder containing 文件已更改 但包含的文件或資料夾"
+//[MEditSavedChangedNonFile1]
+"The file or the folder containing 包含的文件或資料夾"
+//[MEditSavedChangedNonFile2]
+"this file was moved or deleted. Save? 該檔案已被移動或刪除 保存?"
+//[MEditNewPath1]
+"The path to the edited file does not exist, 編輯文件的路徑不存在"
+//[MEditNewPath2]
+"but will be created when the file is saved. 但將在保存檔案時創建"
+//[MEditNewPath3]
+"Continue? 繼續?"
+//[MEditNewPlugin1]
+"The name of the file to edit cannot be empty 編輯文件的名稱不能為空"
+//[MEditorLoadCPWarn1]
+"The file contains characters that cannot be 文件無法包含以下字符"
+//[MEditorLoadCPWarn2]
+"correctly read using the selected code page. 使用選定的代碼頁正確讀取"
+//[MEditorReloadCPWarnLost1]
+"The file has to be reloaded to change the code page. 必須重新載入檔案才能更改程式碼頁"
+//[MEditorReloadCPWarnLost2]
+"All unsaved changes will be lost. 所有未儲存的變更將會遺失"
+//[MEditorSwitchCPConfirm]
+"Continue? 繼續?"
+//[MEditDataLostWarn]
+"During the file editing some data was lost. 在文件編輯過程中，一些資料遺失"
+//[MEditorSaveNotRecommended]
+"It is not recommended to save this file. 不建議保存此文件"
+//[MEditorSave]
+"Save 保存"
+//[MEditorSaveCPWarnShow]
+"Show 顯示"
+//[MEditorCPNotSupported]
+"Code page {0} is not supported in your system 您的系統不支援代碼頁"
+
+//[MColumnName]
+"Name"
+//[MColumnExtension]
+"Extension"
+//[MColumnSize]
+"Size"
+//[MColumnAlocatedSize]
+"Allocated"
+//[MColumnDate]
+"Date"
+//[MColumnTime]
+"Time"
+//[MColumnWrited]
+"Write"
+//[MColumnCreated]
+"Created"
+//[MColumnAccessed]
+"Accessed"
+//[MColumnChanged]
+"Change"
+//[MColumnAttr]
+"Attr"
+//[MColumnDescription]
+"Description"
+//[MColumnOwner]
+"Owner"
+//[MColumnMumLinks]
+"NmL"
+//[MColumnNumStreams]
+"NmS"
+//[MColumnStreamsSize]
+"StrmSz"
+//[MColumnUnknown]
+"???"
+
+//[MListUp]
+"Up"
+//[MListFolder]
+"Folder"
+//[MListSymlink]
+"Symlink"
+//[MListJunction]
+"Junction"
+//[MListVolMount]
+"Volume"
+//[MListUnknownReparsePoint]
+"?Symlink?"
+//[MListBrackets]
+"<>"
+//[MListBytes]
+"B"
+//[MListKb]
+"K"
+//[MListMb]
+"M"
+//[MListGb]
+"G"
+//[MListTb]
+"T"
+//[MListPb]
+"P"
+//[MListEb]
+"E"
+// {3} replacement field can receive a sum of files & folders
+//[MListFileSize]
+"Bytes: {0}, files: {1}, folders: {2}"
+//[MListFileSizeStatus]
+"{0} ({1}/{2}) {3} {4}"
+//[MListFreeSize]
+"{0} free bytes"
+
+//[MDirInfoViewTitle]
+"View 檢視"
+//[MFileToEdit]
+"File to edit: 編輯文件:"
+
+//[MUnselectTitle]
+"Deselect 取消選擇"
+//[MSelectTitle]
+"Select 選擇"
+//[MSelectFilter]
+"&Filter 篩選"
+
+//[MCompareTitle]
+"Compare 比較"
+//[MCompareFilePanelsRequired1]
+"Two file panels are required to perform 需要兩個文件面板來執行"
+//[MCompareFilePanelsRequired2]
+"the Compare folders command 比較資料夾指令"
+//[MCompareSameFolders1]
+"The folders contents seems 資料夾內容似乎"
+//[MCompareSameFolders2]
+"to be identical 完全相同"
+
+//[MSelectAssocTitle]
+"Select association 選擇關聯"
+
+//[MAssocTitle]
+"File associations 文件關聯"
+//[MAskDelAssoc]
+"Do you wish to delete association for 您要刪除關聯嗎"
+
+//[MFileAssocTitle]
+"Edit file associations 編輯文件關聯"
+//[MFileAssocMasks]
+"A file &mask or several file masks: 一個或多個檔案遮罩:"
+//[MFileAssocDescr]
+"&Description of the association: 關聯描述"
+//[MFileAssocExec]
+"E&xecute command (used for Enter): 執行命令 (used for Enter):"
+//[MFileAssocAltExec]
+"Exec&ute command (used for Ctrl+PgDn): 執行命令 (used for Ctrl+PgDn):"
+//[MFileAssocView]
+"&View command (used for F3): 查看命令 (used for F3):"
+//[MFileAssocAltView]
+"V&iew command (used for Alt+F3): 查看命令 (used for Alt+F3):"
+//[MFileAssocEdit]
+"&Edit command (used for F4): 編輯命令 (used for F4):"
+//[MFileAssocAltEdit]
+"Edit comm&and (used for Alt+F4): 編輯命令 (used for Alt+F4):"
+
+// Viewer: functional keys
+//[MViewF1]
+"Help 幫助"
+//[MViewF2]
+"Wrap 換行"
+//[MViewF3]
+"Quit 退出"
+//[MViewF4]
+"Hex 十六進位"
+//[MViewF5]
+""
+//[MViewF6]
+"Edit 編輯"
+//[MViewF7]
+"Search 搜尋"
+//[MViewF8]
+"ANSI"
+//[MViewF9]
+""
+//[MViewF10]
+"Quit 退出"
+//[MViewF11]
+"Plugins 插件"
+//[MViewF12]
+"Screen 螢幕"
+
+// Viewer: Shift
+//[MViewShiftF1]
+""
+//[MViewShiftF2]
+"WWrap W換行"
+//[MViewShiftF3]
+""
+//[MViewShiftF4]
+"Mode 模式"
+//[MViewShiftF5]
+""
+//[MViewShiftF6]
+""
+//[MViewShiftF7]
+"Next"
+//[MViewShiftF8]
+"CodePg 代碼頁"
+//[MViewShiftF9]
+""
+//[MViewShiftF10]
+""
+//[MViewShiftF11]
+""
+//[MViewShiftF12]
+""
+
+// Viewer: Alt
+//[MViewAltF1]
+""
+//[MViewAltF2]
+""
+//[MViewAltF3]
+""
+//[MViewAltF4]
+""
+//[MViewAltF5]
+""
+//[MViewAltF6]
+""
+//[MViewAltF7]
+"Prev 上一個"
+//[MViewAltF8]
+"Goto 跳至"
+//[MViewAltF9]
+"Video 視頻"
+//[MViewAltF10]
+""
+//[MViewAltF11]
+"ViewHs"
+//[MViewAltF12]
+""
+
+// Viewer: Ctrl
+//[MViewCtrlF1]
+""
+//[MViewCtrlF2]
+""
+//[MViewCtrlF3]
+""
+//[MViewCtrlF4]
+""
+//[MViewCtrlF5]
+""
+//[MViewCtrlF6]
+""
+//[MViewCtrlF7]
+""
+//[MViewCtrlF8]
+""
+//[MViewCtrlF9]
+""
+//[MViewCtrlF10]
+"GoFile 前往文件"
+//[MViewCtrlF11]
+""
+//[MViewCtrlF12]
+""
+
+// Viewer: AltShift
+//[MViewAltShiftF1]
+""
+//[MViewAltShiftF2]
+""
+//[MViewAltShiftF3]
+""
+//[MViewAltShiftF4]
+""
+//[MViewAltShiftF5]
+""
+//[MViewAltShiftF6]
+""
+//[MViewAltShiftF7]
+""
+//[MViewAltShiftF8]
+""
+//[MViewAltShiftF9]
+"Config 設定"
+//[MViewAltShiftF10]
+""
+//[MViewAltShiftF11]
+""
+//[MViewAltShiftF12]
+""
+
+// Viewer: CtrlShift
+//[MViewCtrlShiftF1]
+""
+//[MViewCtrlShiftF2]
+""
+//[MViewCtrlShiftF3]
+""
+//[MViewCtrlShiftF4]
+""
+//[MViewCtrlShiftF5]
+""
+//[MViewCtrlShiftF6]
+""
+//[MViewCtrlShiftF7]
+""
+//[MViewCtrlShiftF8]
+""
+//[MViewCtrlShiftF9]
+""
+//[MViewCtrlShiftF10]
+""
+//[MViewCtrlShiftF11]
+""
+//[MViewCtrlShiftF12]
+""
+
+// Viewer: CtrlAlt
+//[MViewCtrlAltF1]
+""
+//[MViewCtrlAltF2]
+""
+//[MViewCtrlAltF3]
+""
+//[MViewCtrlAltF4]
+""
+//[MViewCtrlAltF5]
+""
+//[MViewCtrlAltF6]
+""
+//[MViewCtrlAltF7]
+""
+//[MViewCtrlAltF8]
+""
+//[MViewCtrlAltF9]
+""
+//[MViewCtrlAltF10]
+""
+//[MViewCtrlAltF11]
+""
+//[MViewCtrlAltF12]
+""
+
+// Viewer: CtrlAltShift
+//[MViewCtrlAltShiftF1]
+""
+//[MViewCtrlAltShiftF2]
+""
+//[MViewCtrlAltShiftF3]
+""
+//[MViewCtrlAltShiftF4]
+""
+//[MViewCtrlAltShiftF5]
+""
+//[MViewCtrlAltShiftF6]
+""
+//[MViewCtrlAltShiftF7]
+""
+//[MViewCtrlAltShiftF8]
+""
+//[MViewCtrlAltShiftF9]
+""
+//[MViewCtrlAltShiftF10]
+""
+//[MViewCtrlAltShiftF11]
+""
+//[MViewCtrlAltShiftF12]
+""
+//[MViewF2Unwrap]
+"Unwrap 展開"
+// this is another text for F4
+//[MViewF4Text]
+"Text 文字"
+// this is another text for F4
+//[MViewF4Dump]
+"Dump 轉存"
+// Viewer: end of functional keys
+// This is another text for F8
+//[MViewF8DOS]
+"OEM"
+//[MViewMode]
+"View mode 檢視模式"
+//[MInViewer]
+"view 檢視"
+//[MInEditor]
+"edit 編輯"
+
+//[MFilterTitle]
+"Filters menu 過濾器選單"
+//[MPanelFileType]
+"Panel file type 面板檔案類型"
+//[MFolderFileType]
+"Folders 資料夾"
+//[MCanEditCustomFilterOnly]
+"Only custom filter can be edited 僅可編輯自訂篩選器"
+//[MAskDeleteFilter]
+"Do you wish to delete the filter 您要刪除篩選器嗎"
+//[MCanDeleteCustomFilterOnly]
+"Only custom filter can be deleted 僅可刪除自訂篩選器"
+
+//[MFindFileTitle]
+"Find file 尋找文件"
+//[MFindFileMasks]
+"A file &mask or several file masks: 一個或多個檔案遮罩:"
+//[MFindFileContaining]
+"Containing 包含"
+//[MFindFileText]
+"&Text 文字"
+//[MFindFileHex]
+"&Hex 十六進位"
+//[MFindFileCodePage]
+"Using code pa&ge: 使用代碼頁:"
+//[MFindFileAllCodePages]
+"All standard code pages 所有標準代碼頁"
+//[MFindFileSelectedCodePages]
+"Selected code pages 選定的代碼頁"
+//[MFindFileCase]
+"&Case sensitive 區分大小寫"
+//[MFindFileWholeWords]
+"&Whole words 整個單字"
+//[MFindFileFuzzy]
+"Fu&zzy search 模糊搜尋"
+//[MFindFileNotContaining]
+"&Not containing 不包含"
+//[MFindFileArchives]
+"Search in arch&ives 在歸檔中搜尋"
+//[MFindFileFolders]
+"Search for f&olders 搜尋資料夾"
+//[MFindFileSymLinks]
+"Search in symbolic lin&ks 在符號連結中搜尋"
+//[MFindFileAlternateStreams]
+"Search in a&lternate streams 在替代資料流中搜尋"
+//[MFindFileSearchArea]
+"Select search &area: 選擇搜尋區域:"
+//[MFindFileSearchAllDisks]
+"In &all non-removable drives 在所有不可移動裝置中"
+//[MFindFileSearchAllButNetwork]
+"In all &local drives 在所有本機裝置中"
+//[MFindFileSearchInPATH]
+"In &PATH folders 在 PATH 資料夾中"
+//[MFindFileSearchFromRootOfDrive]
+"From the &root of 從裝置根目錄"
+//[MFindFileSearchFromRootFolder]
+"From the &root folder 從根資料夾"
+//[MFindFileSearchFromCurrent]
+"From the curre&nt folder 從當前目錄"
+//[MFindFileSearchInCurrent]
+"The current folder onl&y 僅限目前資料夾"
+//[MFindFileSearchInSelected]
+"&Selected folders 選定資料夾"
+//[MFindFileUseFilter]
+"&Use filter 使用篩選"
+//[MFindFileUsingFilter]
+"using filter  使用篩選"
+//[MFindFileFind]
+"Find 尋找"
+//[MFindFileDrive]
+"Dri&ve 裝置"
+//[MFindFileSetFilter]
+"Filt&er 篩選"
+//[MFindFileAdvanced]
+"Advance&d 高級的"
+//[MFindFileSearchingIn]
+"Searching {0} in 搜尋  {0}  於"
+//[MFindFileNewSearch]
+"&New search 新搜尋"
+//[MFindFileGoTo]
+"&Go to 跳至"
+//[MFindFileView]
+"&View 檢視"
+//[MFindFilePanel]
+"&Panel 面板"
+//[MFindFileStop]
+"&Stop 停止"
+
+//[MFindFileDone]
+"Search done. Found files: {0}, folders: {1} 搜尋完成 找出檔案: {0} 資料夾: {1} "
+//[MFindFileCancel]
+"&Cancel 取消"
+
+//[MFindFileFound]
+"Files: {0}, folders: {1} 檔案: {0} 資料夾: {1}"
+
+//[MFindFileAdvancedTitle]
+"Find file advanced options 尋找文件進階選項"
+//[MFindFileSearchFirst]
+"Search only in the &first: 僅在第一個中搜尋:"
+//[MFindFileSearchOutputFormat]
+"&Output format: 輸出格式:"
+//[MFindAlternateModeTypes]
+"Column &types 欄位類型"
+//[MFindAlternateModeWidths]
+"Column &widths 欄位寬度"
+
+//[MFoldTreeSearch]
+"Search: 搜尋:"
+
+//[MGetCodePageTitle]
+"Code pages 代碼頁"
+//[MGetCodePageSystem]
+"System 系統"
+//[MGetCodePageUnicode]
+"Unicode 統一碼"
+//[MGetCodePageFavorites]
+"Favorites 收藏夾"
+//[MGetCodePageOther]
+"Other 其他"
+//[MGetCodePageEditCodePageName]
+"Rename the code page 重新命名代碼頁"
+//[MGetCodePageResetCodePageName]
+"&Reset 重置"
+
+//[MHighlightTitle]
+"Files highlighting 文件高亮"
+//[MHighlightUpperSortGroup]
+"Upper sort group 升序排列群組"
+//[MHighlightLowerSortGroup]
+"Lower sort group 降序排列群組"
+//[MHighlightLastGroup]
+"Lowest priority highlighting group 最低優先順序高亮群組"
+//[MHighlightAskDel]
+"Do you wish to delete highlighting for 是否要刪除高亮顯示於"
+//[MHighlightWarning]
+"You will lose all changes 您將丟失所有更改"
+//[MHighlightAskRestore]
+"Do you wish to restore default highlighting? 您是否希望恢復預設高亮顯示"
+
+//[MHighlightEditTitle]
+"Edit files highlighting 編輯文件高亮顯示"
+//[MHighlightMark]
+"Markin&g, 標記"
+//[MHighlightInheritMark]
+"In&herit 繼承"
+//[MHighlightColors]
+"File name colors (\"black on black\" - default color) 檔案名稱顏色"
+//[MHighlightFileName1]
+"&1. Normal file name 一般檔案名稱"
+//[MHighlightFileName2]
+"&3. Selected file name 選定的檔案名"
+//[MHighlightFileName3]
+"&5. File name under cursor 遊標所在的檔案名"
+//[MHighlightFileName4]
+"&7. File name selected under cursor 遊標處選定的檔案名"
+//[MHighlightMarking1]
+"&2. Marking 標記"
+//[MHighlightMarking2]
+"&4. Marking 標記"
+//[MHighlightMarking3]
+"&6. Marking 標記"
+//[MHighlightMarking4]
+"&8. Marking 標記"
+//[MHighlightExample]
+"filename.ext"
+//[MHighlightContinueProcessing]
+"C&ontinue processing 繼續處理"
+
+//[MInfoTitle]
+"Information 資訊"
+//[MInfoCompName]
+"Computer name 電腦名稱"
+//[MInfoCompDescription]
+"Computer description 電腦描述"
+//[MInfoUserName]
+"User name 使用者名稱"
+//[MInfoUserDescription]
+"User description 使用者描述"
+//[MInfoUserAccessLevel]
+"Access level 存取等級"
+//[MInfoUserAccessLevelGuest]
+"Guest 訪客"
+//[MInfoUserAccessLevelUser]
+"User 使用者"
+//[MInfoUserAccessLevelAdministrator]
+"Administrator 管理員"
+//[MInfoUserAccessLevelUnknown]
+"Unknown 未知"
+//[MInfoUserAccessElevated]
+"Elevated 升高"
+//[MInfoUserAccessElevationTypeFull]
+"Full 滿的"
+//[MInfoUserAccessElevationTypeLimited]
+"Limited 有限的"
+//[MInfoDiskTitle]
+"Disk 磁碟"
+//[MInfoRemovable]
+"Removable 可攜式"
+//[MInfoFixed]
+"Fixed 固定"
+//[MInfoNetwork]
+"Network 網路"
+//[MInfoCDROM]
+"CD-ROM"
+//[MInfoCDR]
+"CD-R"
+//[MInfoCDRW]
+"CD-RW"
+//[MInfoCDRWDVD]
+"CD-RW/DVD"
+//[MInfoDVDROM]
+"DVD-ROM"
+//[MInfoDVDR]
+"DVD-R"
+//[MInfoDVDRW]
+"DVD-RW"
+//[MInfoDVDRAM]
+"DVD-RAM"
+//[MInfoBDROM]
+"BD-ROM"
+//[MInfoBDR]
+"BD-R"
+//[MInfoBDRE]
+"BD-RE"
+//[MInfoHDDVDROM]
+"HDDVD-ROM"
+//[MInfoHDDVDR]
+"HDDVD-R"
+//[MInfoHDDVDRW]
+"HDDVD-RW"
+//[MInfoHDDVDRAM]
+"HDDVD-RAM"
+//[MInfoRAM]
+"RAM"
+//[MInfoSUBST]
+"Subst"
+//[MInfoVirtual]
+"Virtual"
+//[MInfoUnknown]
+"Unknown 未知"
+//[MInfoMetricTotal]
+"total"
+//[MInfoMetricAvailable]
+"available 可用的"
+//[MInfoDisk]
+"disk 磁碟"
+//[MInfoDiskSpace]
+"Space 空間"
+//[MInfoDiskLabel]
+"Volume label 卷標籤"
+//[MInfoDiskNumber]
+"Serial number 序號"
+//[MInfoMemory]
+"Memory 記憶體"
+//[MInfoMemoryCommittable]
+"Committable 可提交"
+//[MInfoMemoryAddressable]
+"Addressable 可尋址"
+//[MInfoMemoryPhysical]
+"Physical 實體"
+//[MInfoMetricMemoryInstalled]
+"installed 已安裝"
+//[MInfoDescription]
+"Description 描述"
+//[MInfoDizAbsent]
+"Folder description file is absent 資料夾描述檔案缺失"
+//[MInfoPlugin]
+"Plugin 插件"
+//[MInfoPowerStatus]
+"Power Status 電源狀態"
+//[MInfoPowerStatusAC]
+"AC power status 交流電源狀態"
+//[MInfoPowerStatusACOffline]
+"Offline 離線的"
+//[MInfoPowerStatusACOnline]
+"Online 在線的"
+//[MInfoPowerStatusACBackUp]
+"Backup power 備用電源"
+//[MInfoPowerStatusACUnknown]
+"Unknown 未知"
+//[MInfoPowerStatusBCLifePercentUnknown]
+"unknown 未知"
+//[MInfoPowerStatusBC]
+"Battery charge status 電池充電狀態"
+//[MInfoPowerStatusBCHigh]
+"High 高的"
+//[MInfoPowerStatusBCMedium]
+"Medium 中的"
+//[MInfoPowerStatusBCLow]
+"Low 低的"
+//[MInfoPowerStatusBCCritical]
+"Critical 危急的"
+//[MInfoPowerStatusBCCharging]
+"charging 充電"
+//[MInfoPowerStatusBCNoSysBat]
+"No system battery 無系統電池"
+//[MInfoPowerStatusBCUnknown]
+"Unknown 未知"
+//[MInfoPowerStatusBCTimeRem]
+"Battery life time 電池壽命"
+//[MInfoPowerStatusBCFullTimeRem]
+"Battery full time 電池充滿時間"
+//[MInfoPowerStatusUnknown]
+"Unknown 未知"
+//[MAccessDenied]
+"Access denied 拒絕存取"
+
+//[MCannotExecute]
+"Cannot execute 無法執行"
+//[MCannotInvokeComspec]
+"Cannot invoke command interpreter 無法呼叫命令解釋器"
+//[MCheckComspecVar]
+"Check COMSPEC environment variable 檢查 COMSPEC 環境變量"
+//[MScanningFolder]
+"Scanning the folder 掃描資料夾"
+
+//[MMakeFolderTitle]
+"Make folder 建立資料夾"
+//[MCreateFolder]
+"Create the &folder: 建立資料夾:"
+//[MMakeFolderLinkType]
+"&Link type: 連結類型:"
+//[MMakeFolderLinkNone]
+"&none"
+//[MMakeFolderLinkJunction]
+"directory &junction 目錄聯接"
+//[MMakeFolderLinkSymlink]
+"symbolic &link 符號連結"
+//[MMakeFolderLinkTarget]
+"&Target: 目標:"
+//[MMultiMakeDir]
+"Process &multiple names 處理多個名稱"
+//[MIncorrectDirList]
+"Incorrect folders list 資料夾清單不正確"
+//[MCannotCreateFolder]
+"Cannot create the folder 無法建立資料夾"
+
+//[MMenuBriefView]
+"&Brief 簡短的"
+//[MMenuMediumView]
+"&Medium 中等的"
+//[MMenuFullView]
+"&Full 全視圖"
+//[MMenuWideView]
+"&Wide 寬的"
+//[MMenuDetailedView]
+"Detai&led 詳細"
+//[MMenuDizView]
+"&Descriptions 描述"
+//[MMenuLongDizView]
+"Lon&g descriptions 詳細描述"
+//[MMenuOwnersView]
+"File own&ers 文件所有者"
+//[MMenuLinksView]
+"File lin&ks 文件連結"
+//[MMenuAlternativeView]
+"&Alternative full 替代全"
+
+//[MMenuInfoPanel]
+"&Info panel 面板資訊"
+//[MMenuTreePanel]
+"&Tree panel 樹面板"
+//[MMenuQuickView]
+"Quick &view 快速檢視"
+//[MMenuSortModes]
+"&Sort modes 排列模式"
+//[MMenuLongNames]
+"Show long &names 顯示長名稱"
+//[MMenuTogglePanel]
+"Panel &On/Off 面板 開/關"
+//[MMenuReread]
+"&Re-read 重讀"
+//[MMenuChangeDrive]
+"&Change drive 更改裝置"
+
+//[MMenuView]
+"&View 檢視"
+//[MMenuEdit]
+"&Edit 編輯"
+//[MMenuCopy]
+"&Copy 複製"
+//[MMenuMove]
+"&Rename or move 重新命名或移動"
+//[MMenuLink]
+"Lin&k 連結"
+//[MMenuCreateFolder]
+"&Make folder 建立資料夾"
+//[MMenuDelete]
+"&Delete 刪除"
+//[MMenuWipe]
+"&Wipe 擦除"
+//[MMenuAdd]
+"Add &to archive 新增到歸檔"
+//[MMenuExtract]
+"E&xtract files 提取文件"
+//[MMenuArchiveCommands]
+"Arc&hive commands 歸檔指令"
+//[MMenuAttributes]
+"File &attributes 文件屬性"
+//[MMenuApplyCommand]
+"A&pply command 應用指令"
+//[MMenuDescribe]
+"Descri&be files 描述文件"
+//[MMenuSelectGroup]
+"Select &group 選擇群組"
+//[MMenuUnselectGroup]
+"U&nselect group 取消選擇群組"
+//[MMenuInvertSelection]
+"&Invert selection 反向選擇"
+//[MMenuRestoreSelection]
+"Re&store selection 恢復選擇"
+
+//[MMenuFindFile]
+"&Find file 尋找文件"
+//[MMenuHistory]
+"&History 歷史紀錄"
+//[MMenuVideoMode]
+"&Video mode 視頻模式"
+//[MMenuFindFolder]
+"Fi&nd folder 尋找文件夾"
+//[MMenuViewHistory]
+"File vie&w history 文件檢視紀錄"
+//[MMenuFoldersHistory]
+"F&olders history 文件夾紀錄"
+//[MMenuSwapPanels]
+"&Swap panels 調換左右面板"
+//[MMenuTogglePanels]
+"&Panels On/Off 面板 開/關"
+//[MMenuCompareFolders]
+"&Compare folders 比較資料夾"
+//[MMenuUserMenu]
+"Edit user &menu 編輯使用者選單"
+//[MMenuFileAssociations]
+"File &associations 文件關聯"
+//[MMenuFolderShortcuts]
+"Fol&der shortcuts 目錄捷徑"
+//[MMenuFilter]
+"File panel f&ilter 文件面板篩選"
+//[MMenuPluginCommands]
+"Pl&ugin commands 插件指令"
+//[MMenuWindowsList]
+"Sc&reens list 螢幕列表"
+//[MMenuProcessList]
+"Task &list 任務列表"
+//[MMenuHotPlugList]
+"Ho&tplug devices list 熱插拔設備列表"
+
+//[MMenuSystemSettings]
+"S&ystem settings 系統設定"
+//[MMenuPanelSettings]
+"&Panel settings 面板設定"
+//[MMenuTreeSettings]
+"&Tree settings 樹設定"
+//[MMenuInterface]
+"&Interface settings 介面設定"
+//[MMenuLanguages]
+"Lan&guages 語言"
+//[MMenuPluginsConfig]
+"Pl&ugins configuration 插件設定"
+//[MMenuPluginsManagerSettings]
+"Plugins manage&r settings 插件管理設定"
+//[MMenuDialogSettings]
+"Di&alog settings 對話方塊設定"
+//[MMenuVMenuSettings]
+"Menu settings 選單設定"
+//[MMenuCmdlineSettings]
+"&Command line settings 命令列設定"
+//[MMenuAutoCompleteSettings]
+"Au&toComplete settings 自動完成設定"
+//[MMenuInfoPanelSettings]
+"Inf&oPanel settings 資訊面板設定"
+//[MMenuMaskGroups]
+"Groups of file mas&ks 檔案遮罩組"
+//[MMenuConfirmation]
+"Co&nfirmations 確認"
+//[MMenuFilePanelModes]
+"File panel &modes 文件面板模式"
+//[MMenuFileDescriptions]
+"File &descriptions 文件描述"
+//[MMenuFolderInfoFiles]
+"&Folder description files 資料夾描述文件"
+//[MMenuViewer]
+"&Viewer settings 檢視器設定"
+//[MMenuEditor]
+"&Editor settings 編輯器設定"
+//[MMenuCodePages]
+"Code pages 代碼頁"
+//[MMenuColors]
+"Co&lors 色彩"
+//[MMenuFilesHighlighting]
+"Files &highlighting and sort groups 文件高亮和排序組"
+//[MMenuSaveSetup]
+"&Save setup 保存設定"
+//[MMenuTogglePanelRight]
+"Panel &On/Off 面板 開/關"
+//[MMenuChangeDriveRight]
+"&Change drive 改變磁碟機"
+
+//[MMenuLeftTitle]
+"&Left 左"
+//[MMenuFilesTitle]
+"&Files 文件"
+//[MMenuCommandsTitle]
+"&Commands 指令"
+//[MMenuOptionsTitle]
+"&Options 選項"
+//[MMenuRightTitle]
+"&Right 右"
+
+//[MMenuSortTitle]
+"Sort by 排序依照"
+//[MMenuSortByName]
+"&Name 檔名"
+//[MMenuSortByExt]
+"E&xtension 副檔名"
+//[MMenuSortByWrite]
+"&Write time 寫入時間"
+//[MMenuSortBySize]
+"&Size 大小"
+//[MMenuUnsorted]
+"&Unsorted 不排序"
+//[MMenuSortByCreation]
+"&Creation time 建立時間"
+//[MMenuSortByAccess]
+"&Access time 訪問時間"
+//[MMenuSortByChange]
+"Chan&ge time 更改時間"
+//[MMenuSortByDiz]
+"&Descriptions 描述"
+//[MMenuSortByOwner]
+"&Owner 擁有者"
+//[MMenuSortByAllocatedSize]
+"Allocated size 分配大小"
+//[MMenuSortByNumLinks]
+"Number of &hard links 硬連結數量"
+//[MMenuSortByNumStreams]
+"Number of st&reams 資料流數量"
+//[MMenuSortByStreamsSize]
+"Si&ze of streams 資料流大小"
+//[MMenuSortByNameOnly]
+"Name only 只有檔名"
+//[MMenuSortUseGroups]
+"Use sort groups 使用排序群組"
+//[MMenuSortSelectedFirst]
+"Show selected f&irst 首先選擇的"
+//[MMenuSortDirectoriesFirst]
+"Show directories &first 首先顯示目錄"
+//[MMaskGroupTitle]
+"Groups of file masks 檔案遮罩組"
+//[MMaskGroupName]
+"&Name: 檔名:"
+//[MMaskGroupMasks]
+"A file &mask or several file masks: 一個或多個檔案遮罩:"
+//[MMaskGroupAskDelete]
+"Do you wish to delete 您是否希望刪除"
+//[MMaskGroupRestore]
+"Do you wish to restore default mask sets? 您希望恢復預設遮罩集嗎?"
+//[MMaskGroupFindMask]
+"&Mask: 遮罩:"
+//[MMaskGroupTotal]
+"Total: {0} 全部: {0}"
+
+//[MChangeDriveTitle]
+"Change drive"
+//[MChangeDriveRemovable]
+"removable"
+//[MChangeDriveFixed]
+"fixed"
+//[MChangeDriveNetwork]
+"network"
+//[MChangeDriveDisconnectedNetwork]
+"disconnected"
+//[MChangeDriveCDROM]
+"CD-ROM"
+//[MChangeDriveCDR]
+"CD-R"
+//[MChangeDriveCDRW]
+"CD-RW"
+//[MChangeDriveCDRWDVD]
+"CD-RW/DVD"
+//[MChangeDriveDVDROM]
+"DVD-ROM"
+//[MChangeDriveDVDR]
+"DVD-R"
+//[MChangeDriveDVDRW]
+"DVD-RW"
+//[MChangeDriveDVDRAM]
+"DVD-RAM"
+//[MChangeDriveBDROM]
+"BD-ROM"
+//[MChangeDriveBDR]
+"BD-R"
+//[MChangeDriveBDRE]
+"BD-RE"
+//[MChangeDriveHDDVDROM]
+"HDDVD-ROM"
+//[MChangeDriveHDDVDR]
+"HDDVD-R"
+//[MChangeDriveHDDVDRW]
+"HDDVD-RW"
+//[MChangeDriveHDDVDRAM]
+"HDDVD-RAM"
+//[MChangeDriveRAM]
+"RAM disk 隨機存取記憶磁碟 "
+//[MChangeDriveSUBST]
+"subst"
+//[MChangeDriveVirtual]
+"virtual 虛擬"
+//[MChangeDriveLabelAbsent]
+"not available 無法使用"
+//[MChangeDriveCannotReadDisk]
+"Cannot read the disk in drive 無法讀取磁碟機中的磁碟"
+//[MChangeDriveCannotDisconnect]
+"Cannot disconnect from {0} 無法斷開與 {0} 的連接"
+//[MChangeDriveCannotDelSubst]
+"Cannot delete a substituted disk {0} 無法刪除替代磁碟 {0}"
+//[MChangeDriveCannotDetach]
+"Cannot detach a virtual disk {0} 無法拆離 虛擬磁碟 {0}"
+//[MChangeDriveOpenFiles]
+"If you do not close the open files, data may be lost 如果不關閉已開啟的文件 資料可能會遺失"
+
+//[MChangeSUBSTDisconnectDriveTitle]
+"Substituted disk deletion 斷開磁碟機"
+//[MChangeSUBSTDisconnectDriveQuestion]
+"Delete SUBST-disk {0}? 刪除 SUBST-磁碟 {0}?"
+//[MChangeVHDDisconnectDriveTitle]
+"Virtual disk detaching 虛擬磁碟拆離"
+//[MChangeVHDDisconnectDriveQuestion]
+"Detach virtual disk {0}? 拆離虛擬磁碟 {0}?"
+
+//[MChangeHotPlugDisconnectDriveTitle]
+"Device Removal 裝置移除"
+//[MChangeHotPlugDisconnectDriveQuestion]
+"Do you want to remove the device 是否要移除裝置"
+//[MHotPlugDisks]
+"(disk(s): {0}) (磁碟(s): {0})"
+//[MChangeCouldNotEjectHotPlugMedia]
+"Cannot remove a device for drive {0} 無法刪除磁碟機 {0} 的設備"
+//[MChangeCouldNotEjectHotPlugMedia2]
+"Cannot remove a device: 無法移除裝置:"
+//[MChangeHotPlugNotify1]
+"The device 該裝置"
+//[MChangeHotPlugNotify2]
+"can now be safely removed 現在可以安全移除"
+//[MHotPlugListTitle]
+"Hotplug devices list 熱插拔設備列表"
+
+//[MChangeDriveDisconnectTitle]
+"Disconnect network drive 斷開網路磁碟機"
+//[MChangeDriveDisconnectQuestion]
+"Do you want to disconnect from the drive {0}? 是否要斷開與裝置 {0} 的連接?"
+//[MChangeDriveDisconnectMapped]
+"The drive is mapped to: 該裝置映射到:"
+//[MChangeDriveDisconnectReconnect]
+"&Reconnect at logon 登入時重新連線"
+
+//[MChangeDriveAskDisconnect]
+"Do you want to disconnect the device anyway? 您是否仍要中斷裝置連接?"
+//[MChangeWaitingLoadDisk]
+"Waiting for the disk to mount… 正在等待磁碟掛載…"
+//[MChangeCouldNotEjectMedia]
+"Could not eject media from drive 無法從裝置退出媒體"
+//[MChangeDriveConfigure]
+"Change Drive Menu Options 更改裝置選單選項"
+//[MChangeDriveShowDiskType]
+"Show disk &type 顯示磁碟類型"
+//[MChangeDriveShowPath]
+"Show &network name / SUBST path / VHD name 顯示網路名稱 / SUBST 路徑 / VHD 名稱"
+//[MChangeDriveShowLabel]
+"Show disk &label 顯示磁碟標籤"
+//[MChangeDriveShowLabelUseShell]
+"Use shell na&me 使用 shell 名稱"
+//[MChangeDriveShowFileSystem]
+"Show &file system type 顯示檔案系統類型"
+//[MChangeDriveShowSize]
+"Show &size 顯示大小"
+//[MChangeDriveShowSizeFloat]
+"Show si&ze as a decimal fraction 將大小顯示為分數"
+//[MChangeDriveShowRemovableDrive]
+"Show &removable drive parameters 顯示可移動裝置參數"
+//[MChangeDriveShowPlugins]
+"Show &plugins 顯示插件"
+//[MChangeDriveSortPluginsByHotkey]
+"Sort plugins by &hotkey 按熱鍵對插件進行排序"
+//[MChangeDriveShowCD]
+"Show &CD drive parameters 顯示 CD 光碟機參數"
+//[MChangeDriveShowNetworkDrive]
+"Show n&etwork drive parameters 顯示網路裝置參數"
+//[MChangeDriveShowVirtualDisk]
+"Detect virtual disks 檢測虛擬磁碟"
+
+//[MSearchFileTitle]
+"Search 搜尋"
+//[MCannotCreateListTemp]
+"Cannot create a temporary file for the list of files 無法為文件清單建立臨時文件"
+
+//[MDragFiles]
+"{0} files {0} 文件"
+//[MDragMove]
+"Move {0} 移動 {0}"
+//[MDragCopy]
+"Copy {0} 複製 {0}"
+
+//[MProcessListTitle]
+"Task list 任務列表"
+//[MKillProcessTitle]
+"Kill task 終止任務"
+//[MAskKillProcess]
+"Do you wish to kill selected task? 您是否希望終止選定的任務?"
+//[MKillProcessWarning]
+"You will lose any unsaved information in this program 您將丟失此程式中所有未儲存的信息"
+//[MKillProcessKill]
+"Kill 終止"
+//[MCannotKillProcess]
+"Cannot kill the specified task 無法終止指定任務"
+//[MCannotKillProcessPerm]
+"You have no permission to kill this process. 您無權終止該進程"
+
+//[MQuickViewTitle]
+"Quick view 快速檢視"
+//[MQuickViewReparsePoint]
+"&Reparse point 重新解析點"
+//[MQuickViewUnknownReparsePoint]
+"Unknown reparse point 未知的重新解析點"
+//[MQuickViewFolders]
+"Folders: 資料夾:"
+//[MQuickViewFiles]
+"Files: 文件:"
+//[MQuickViewBytes]
+"Files size: 文件大小:"
+//[MQuickViewAllocated]
+"Allocated size: 分配大小:"
+//[MQuickViewCluster]
+"Cluster size: 叢集大小:"
+//[MQuickViewSlack]
+"Files slack: 文件鬆弛:"
+//[MQuickViewMFTOverhead]
+"MFT overhead: 改進調頻(MFT)開銷"
+
+//[MSetAttrTitle]
+"Attributes 屬性"
+//[MSetAttrFor]
+"Change file attributes for 更改檔案屬性"
+//[MSetAttrSelectedObjects]
+"selected objects 選定物件"
+//[MSetAttrHardLinks]
+"hard links 硬連結"
+//[MSetAttrJunction]
+"&Junction: 目錄連結"
+//[MSetAttrSymlink]
+"S&ymlink{}: 符號連結"
+//[MSetAttrVolMount]
+"&Volume: 卷:"
+//[MSetAttrDfsTargets]
+"DFS Targets: DFS 目標:"
+//[MSetAttrAppExecLink]
+"App Alias: 應用程式別名:"
+//[MSetAttrUnknownReparsePoint]
+"Unknown reparse point 未知的重新分析點"
+//[MSetAttrDiskDevice]
+"Device: 裝置:"
+//[MSetAttrReadOnly]
+"&Read only 唯讀"
+//[MSetAttrArchive]
+"&Archive 歸檔 "
+//[MSetAttrHidden]
+"&Hidden 隱藏"
+//[MSetAttrSystem]
+"&System 系統"
+//[MSetAttrCompressed]
+"&Compressed 壓縮"
+//[MSetAttrEncrypted]
+"&Encrypted 加密"
+//[MSetAttrNotIndexed]
+"Not &indexed 非索引"
+//[MSetAttrSparse]
+"&Sparse 稀疏"
+//[MSetAttrTemporary]
+"&Temporary 暫時"
+//[MSetAttrOffline]
+"&Offline 離線"
+//[MSetAttrReparsePoint]
+"&Reparse point 重新分析點"
+//[MSetAttrVirtual]
+"&Virtual 虛擬的"
+//[MSetAttrIntegrityStream]
+"&Integrity stream 完整性資料流"
+//[MSetAttrNoScrubData]
+"&No scrub data 沒有清除數據"
+//[MSetAttrPinned]
+"&Pinned 固定"
+//[MSetAttrUnpinned]
+"&Unpinned 取消固定"
+//[MSetAttrRecallOnOpen]
+"R&ecall on open 打開時調用"
+//[MSetAttrRecallOnDataAccess]
+"Rec&all on data access 資料存取時調用"
+//[MSetAttrStrictlySequential]
+"Strictly se&quential 嚴格序列"
+//[MSetAttrDevice]
+"Device 裝置"
+//[MSetAttrMore]
+"&More 更多"
+//[MSetAttrSubfolders]
+"Process sub&folders 處理子資料夾"
+//[MSetAttrOwner]
+"Owner&: 擁有者:"
+//[MSetAttrDate]
+"Date/Time: 日期/時間:"
+//[MSetAttrWrite]
+"&write: 寫入:"
+//[MSetAttrCreation]
+"crea&tion: 創建"
+//[MSetAttrAccess]
+"&access: 使用權:"
+//[MSetAttrChange]
+"chan&ge: 更改"
+//[MSetAttrOriginal]
+"&Original 原來的"
+//[MSetAttrCurrent]
+"Curre&nt 目前的"
+//[MSetAttrBlank]
+"&Blank 空的"
+//[MSetAttrSet]
+"Set 設置"
+
+//[MSetAttrDateTitleMDY]
+"MM{0}DD{0}YYYYY"
+//[MSetAttrDateTitleDMY]
+"DD{0}MM{0}YYYYY"
+//[MSetAttrDateTitleYMD]
+"YYYYY{0}MM{0}DD"
+//[MSetAttrTimeTitle]
+"hh{0}mm{0}ss"
+//[MSetAttrSystemDialog]
+"System &properties 系統屬性"
+
+//[MSetAttrSetting]
+"Setting file attributes for 設定檔案屬性"
+//[MSetAttrCannotFor]
+"Cannot set attributes for 無法設定屬性"
+//[MSetAttrCompressedCannotFor]
+"Cannot set attribute COMPRESSED for 無法設定 COMPRESSED 屬性"
+//[MSetAttrEncryptedCannotFor]
+"Cannot set attribute ENCRYPTED for 無法設定 ENCRYPTED 屬性"
+//[MSetAttrSparseCannotFor]
+"Cannot set attribute SPARSE for 無法設定 SPARSE 屬性"
+//[MSetAttrTimeCannotFor]
+"Cannot set file time for 無法設定檔案時間"
+//[MSetAttrOwnerCannotFor]
+"Cannot set owner for 無法設定所有者"
+//[MSetAttrReparsePointCannotFor]
+"Cannot remove reparse point for 無法刪除重新分析點"
+
+//[MSetColorPanel]
+"&Panel 面板"
+//[MSetColorDialog]
+"&Dialog 對話"
+//[MSetColorWarning]
+"&Warning message 警示訊息"
+//[MSetColorMenu]
+"&Menu 選單"
+//[MSetColorHMenu]
+"Hori&zontal menu 水平選單"
+//[MSetColorKeyBar]
+"&Key bar 熱鍵列"
+//[MSetColorCommandLine]
+"&Command line 命令行"
+//[MSetColorClock]
+"C&lock 時間"
+//[MSetColorViewer]
+"&Viewer 檢視器"
+//[MSetColorEditor]
+"&Editor 編輯器"
+//[MSetColorHelp]
+"&Help 幫助"
+//[MColorThemes]
+"Themes 主題"
+//[MDefaultTheme]
+"Default 預設"
+//[MDefaultThemeRGB]
+"Default (RGB) 預設 (RGB)"
+
+//[MSetColorPanelNormal]
+"Normal text 一般的文字"
+//[MSetColorPanelSelected]
+"Selected text 選定的文字"
+//[MSetColorPanelHighlightedText]
+"Highlighted text 高亮的文字"
+//[MSetColorPanelHighlightedInfo]
+"Highlighted info 高亮的資訊"
+//[MSetColorPanelDragging]
+"Dragging text 拖曳文字"
+//[MSetColorPanelBox]
+"Border 邊界"
+//[MSetColorPanelNormalCursor]
+"Normal cursor 一般遊標"
+//[MSetColorPanelSelectedCursor]
+"Selected cursor 選定遊標"
+//[MSetColorPanelNormalTitle]
+"Normal title 一般標題"
+//[MSetColorPanelSelectedTitle]
+"Selected title 選定標題"
+//[MSetColorPanelColumnTitle]
+"Column title 列標題"
+//[MSetColorPanelTotalInfo]
+"Total info 全部資訊"
+//[MSetColorPanelSelectedInfo]
+"Selected info 所選資訊"
+//[MSetColorPanelScrollbar]
+"Scrollbar 捲軸"
+//[MSetColorPanelScreensNumber]
+"Number of background screens 背景螢幕數量"
+
+//[MSetColorDialogNormal]
+"Normal text 一般文字"
+//[MSetColorDialogHighlighted]
+"Highlighted text 高亮文字"
+//[MSetColorDialogDisabled]
+"Disabled text 已禁用文字"
+//[MSetColorDialogBox]
+"Border 邊界"
+//[MSetColorDialogBoxTitle]
+"Title 標題"
+//[MSetColorDialogHighlightedBoxTitle]
+"Highlighted title 高亮的標題"
+//[MSetColorDialogTextInput]
+"Text input 文字輸入"
+//[MSetColorDialogUnchangedTextInput]
+"Unchanged text input 未改變的文字輸入"
+//[MSetColorDialogSelectedTextInput]
+"Selected text input 選定的文字輸入"
+//[MSetColorDialogEditDisabled]
+"Disabled input line 禁用輸入線"
+//[MSetColorDialogButtons]
+"Buttons 按鈕"
+//[MSetColorDialogSelectedButtons]
+"Selected buttons 選定按鈕"
+//[MSetColorDialogHighlightedButtons]
+"Highlighted buttons 高亮按鈕"
+//[MSetColorDialogSelectedHighlightedButtons]
+"Selected highlighted buttons 選定高亮按鈕"
+//[MSetColorDialogDefaultButton]
+"Default button 預設按鈕"
+//[MSetColorDialogSelectedDefaultButton]
+"Selected default button 選定預設按鈕"
+//[MSetColorDialogHighlightedDefaultButton]
+"Highlighted default button 高亮預設按鈕"
+//[MSetColorDialogSelectedHighlightedDefaultButton]
+"Selected highlighted default button 選定高亮預設按鈕"
+//[MSetColorDialogListBoxControl]
+"List box 列表選單"
+//[MSetColorDialogComboBoxControl]
+"Combobox 下拉式選單"
+
+//[MSetColorDialogListText]
+"Normal text 一般文字"
+//[MSetColorDialogListSelectedText]
+"Selected text 選定文字"
+//[MSetColorDialogListHighLight]
+"Highlighted text 高亮文字"
+//[MSetColorDialogListSelectedHighLight]
+"Selected highlighted text 選定高亮文字"
+//[MSetColorDialogListDisabled]
+"Disabled item 停用項目"
+//[MSetColorDialogListBox]
+"Border 邊界"
+//[MSetColorDialogListTitle]
+"Title 標題"
+//[MSetColorDialogListGrayed]
+"Grayed list text 灰色清單文本"
+//[MSetColorDialogSelectedListGrayed]
+"Selected grayed list text 選定的灰色清單文本"
+//[MSetColorDialogListScrollBar]
+"Scrollbar 捲軸"
+//[MSetColorDialogListArrows]
+"Long string indicators 長串指標"
+//[MSetColorDialogListArrowsSelected]
+"Selected long string indicators 選定的長串指標"
+//[MSetColorDialogListArrowsDisabled]
+"Disabled long string indicators 已禁用長字串指示符"
+
+//[MSetColorMenuNormal]
+"Normal text 一般文字"
+//[MSetColorMenuSelected]
+"Selected text 選定文字"
+//[MSetColorMenuHighlighted]
+"Highlighted text 高亮文字"
+//[MSetColorMenuSelectedHighlighted]
+"Selected highlighted text 選定高亮文字"
+//[MSetColorMenuDisabled]
+"Disabled text 已禁用文字"
+//[MSetColorMenuGrayed]
+"Grayed text 灰色文字"
+//[MSetColorMenuSelectedGrayed]
+"Selected grayed text 選定的灰色文字"
+//[MSetColorMenuBox]
+"Border 邊界"
+//[MSetColorMenuTitle]
+"Title 標題"
+//[MSetColorMenuScrollBar]
+"Scrollbar 捲軸"
+//[MSetColorMenuArrows]
+"Long string indicators 長串指標"
+//[MSetColorMenuArrowsSelected]
+"Selected long string indicators 選定的長串指標"
+//[MSetColorMenuArrowsDisabled]
+"Disabled long string indicators 已禁用長字串指示符"
+
+//[MSetColorHMenuNormal]
+"Normal text 一般文字"
+//[MSetColorHMenuSelected]
+"Selected text 選定文字"
+//[MSetColorHMenuHighlighted]
+"Highlighted text 高亮文字"
+//[MSetColorHMenuSelectedHighlighted]
+"Selected highlighted text 選定高亮文字"
+
+//[MSetColorKeyBarNumbers]
+"Key numbers Key 數量"
+//[MSetColorKeyBarNames]
+"Key names Key 名稱"
+//[MSetColorKeyBarBackground]
+"Background 背景"
+
+//[MSetColorCommandLineNormal]
+"Normal text 一般文字"
+//[MSetColorCommandLineSelected]
+"Selected text input 選定的文字輸入"
+//[MSetColorCommandLinePrefix]
+"Prefix text 前綴文字"
+//[MSetColorCommandLineUserScreen]
+"User screen 使用者螢幕"
+
+//[MSetColorClockNormal]
+"Normal text (Panel) 一般文字 (面板)"
+//[MSetColorClockNormalEditor]
+"Normal text (Editor) 一般文字 (編輯器)"
+//[MSetColorClockNormalViewer]
+"Normal text (Viewer) 一般文字 (檢視器)"
+
+//[MSetColorViewerNormal]
+"Normal text 一般文字"
+//[MSetColorViewerSelected]
+"Selected text 選定的文字"
+//[MSetColorViewerStatus]
+"Status line 狀態列"
+//[MSetColorViewerArrows]
+"Screen scrolling arrows 螢幕滾動箭頭"
+//[MSetColorViewerScrollbar]
+"Scrollbar 捲軸"
+
+//[MSetColorEditorNormal]
+"Normal text 一般文字"
+//[MSetColorEditorSelected]
+"Selected text 選定的文字"
+//[MSetColorEditorStatus]
+"Status line 狀態列"
+//[MSetColorEditorScrollbar]
+"Scrollbar 捲軸"
+
+//[MSetColorHelpNormal]
+"Normal text 一般文字"
+//[MSetColorHelpHighlighted]
+"Highlighted text 高亮文字"
+//[MSetColorHelpReference]
+"Reference 參考"
+//[MSetColorHelpSelectedReference]
+"Selected reference 選定參考"
+//[MSetColorHelpBox]
+"Border 邊界"
+//[MSetColorHelpBoxTitle]
+"Title 標題"
+//[MSetColorHelpScrollbar]
+"Scrollbar 捲軸"
+
+//[MSetColorGroupsTitle]
+"Color groups 色彩組"
+//[MSetColorItemsTitle]
+"Group items 組項目"
+
+//[MSetColorTitle]
+"Color 色彩"
+//[MSetColorForeground]
+"&Foreground: 前景:"
+//[MSetColorBackground]
+"&Background: 背景:"
+//[MSetColorForegroundDefault]
+"Default 預設"
+//[MSetColorBackgroundDefault]
+"Default 預設"
+
+// 8 characters max
+//[MSetColorForeIndex]
+"AA    ##"
+
+// 8 characters max
+//[MSetColorForeAARRGGBB]
+"AARRGGBB"
+
+// 8 characters max
+//[MSetColorForeDefault]
+"AA"
+
+// 3 characters max
+//[MSetColorFore256]
+"&256…"
+
+// 3 characters max
+//[MSetColorForeRGB]
+"&RGB…"
+
+// 8 characters max
+//[MSetColorBackIndex]
+"AA    ##"
+
+// 8 characters max
+//[MSetColorBackAARRGGBB]
+"AARRGGBB"
+
+// 8 characters max
+//[MSetColorBackDefault]
+"AA"
+
+// 3 characters max
+//[MSetColorBack256]
+"2&56…"
+
+// 3 characters max
+//[MSetColorBackRGB]
+"R&GB…"
+//[MSetColorStyle]
+"Style: 風格:"
+//[MSetColorStyleInherit]
+"&Inherit 繼承"
+//[MSetColorStyleBold]
+"B&old 粗體"
+//[MSetColorStyleItalic]
+"I&talic 斜體"
+//[MSetColorStyleOverline]
+"O&verline 上劃線"
+//[MSetColorStyleStrikeout]
+"&Strikeout 刪除線"
+//[MSetColorStyleFaint]
+"F&aint 淡出"
+//[MSetColorStyleBlink]
+"B&link 閃爍"
+//[MSetColorStyleInverse]
+"Inverse 反向"
+//[MSetColorStyleInvisible]
+"Invisible 無形的"
+//[MSetColorStyleUnderline]
+"&Underline:"
+//[MSetColorStyleUnderlineNone]
+"No 無"
+//[MSetColorStyleUnderlineSingle]
+"Single 單實線"
+//[MSetColorStyleUnderlineDouble]
+"Double 雙底線"
+//[MSetColorStyleUnderlineCurly]
+"Curly 波浪線"
+//[MSetColorStyleUnderlineDotted]
+"Dotted 點虛線"
+//[MSetColorStyleUnderlineDashed]
+"Dashed 虛線"
+//[MSetColorSample]
+"Text Text Text Text Text Text Text"
+//[MSetColorVTHintInfo]
+"Extended colors and styles require VT rendering. 擴充顏色和樣式需要 VT 渲染"
+//[MSetColorVTHintSupported]
+"Press \"Enable VT\" below to turn it on. 按下面的\"啟用 VT\"將其打開"
+//[MSetColorVTHintNotSupported]
+"Your system does not support it. 你的系統不支援"
+//[MSetColorSystemDialog]
+"System 系統"
+//[MSetColorSet]
+"Set 設置"
+//[MSetColorEnableVT]
+"Enable VT 設定顏色啟用 VT"
+//[MSetColorCancel]
+"Cancel 取消"
+//[MColorsPalette]
+"Palette 調色板"
+//[MColorsClassicPalette]
+"Classic palette 經典調色板"
+
+//[MSetConfirmTitle]
+"Confirmations 確認"
+//[MSetConfirmCopy]
+"&Copy 複製"
+//[MSetConfirmMove]
+"&Move 移動"
+//[MSetConfirmRO]
+"&Overwrite and delete R/O files 覆蓋並刪除 R/O 文件"
+//[MSetConfirmDrag]
+"&Drag and drop 拖放"
+//[MSetConfirmDelete]
+"De&lete 刪除"
+//[MSetConfirmDeleteFolders]
+"Delete non-empty &folders 刪除非空資料夾"
+//[MSetConfirmEsc]
+"&Interrupt operation 中斷操作"
+//[MSetConfirmRemoveConnection]
+"Disconnect &network drive 斷開網路磁碟機"
+//[MSetConfirmRemoveSUBST]
+"Delete &SUBST-disk 刪除 SUBST-磁碟"
+//[MSetConfirmDetachVHD]
+"Detach &virtual disk 分離虛擬磁碟"
+//[MSetConfirmRemoveHotPlug]
+"Hot&Plug-device removal 熱插拔設備移除"
+//[MSetConfirmAllowReedit]
+"&Reload edited file 重新載入已編輯的文件"
+//[MSetConfirmHistoryClear]
+"Clear &history list 清除歷史列表"
+//[MSetConfirmExit]
+"E&xit 離開"
+
+//[MPluginsManagerSettingsTitle]
+"Plugins manager settings 插件管理器設定"
+//[MPluginsManagerOEMPluginsSupport]
+"&OEM plugins support OEM 插件支援"
+//[MPluginsManagerScanSymlinks]
+"Scan s&ymbolic links 掃描符號連結"
+//[MPluginsManagerOFP]
+"&File processing 文件處理"
+//[MPluginsManagerStdAssoc]
+"Show standard &association item 顯示標準及關聯項目"
+//[MPluginsManagerEvenOne]
+"&Even if only one plugin found 即使只找到一個插件"
+//[MPluginsManagerSFL]
+"Search &results (SetFindList) 搜尋結果 ( 設定查找清單 )"
+//[MPluginsManagerPF]
+"&Prefix processing 前綴處理"
+//[MPluginConfirmationTitle]
+"Plugin selection 插件選擇"
+//[MMenuPluginStdAssociation]
+"Standard association 標準關聯"
+
+//[MFindFolderTitle]
+"Find folder 查找資料夾"
+
+// Find folder Tree KeyBar
+//[MFolderTreeF1]
+"Help 幫助"
+//[MFolderTreeF2]
+"Rescan 重新掃描"
+//[MFolderTreeF3]
+""
+//[MFolderTreeF4]
+""
+//[MFolderTreeF5]
+"Zoom 縮放"
+//[MFolderTreeF6]
+""
+//[MFolderTreeF7]
+""
+//[MFolderTreeF8]
+""
+//[MFolderTreeF9]
+""
+//[MFolderTreeF10]
+"Quit 退出"
+//[MFolderTreeF11]
+""
+//[MFolderTreeF12]
+""
+//[MFolderTreeShiftF1]
+""
+//[MFolderTreeShiftF2]
+""
+//[MFolderTreeShiftF3]
+""
+//[MFolderTreeShiftF4]
+""
+//[MFolderTreeShiftF5]
+""
+//[MFolderTreeShiftF6]
+""
+//[MFolderTreeShiftF7]
+""
+//[MFolderTreeShiftF8]
+""
+//[MFolderTreeShiftF9]
+""
+//[MFolderTreeShiftF10]
+""
+//[MFolderTreeShiftF11]
+""
+//[MFolderTreeShiftF12]
+""
+//[MFolderTreeAltF1]
+""
+//[MFolderTreeAltF2]
+""
+//[MFolderTreeAltF3]
+""
+//[MFolderTreeAltF4]
+""
+//[MFolderTreeAltF5]
+""
+//[MFolderTreeAltF6]
+""
+//[MFolderTreeAltF7]
+""
+//[MFolderTreeAltF8]
+""
+//[MFolderTreeAltF9]
+"Video 影片"
+//[MFolderTreeAltF10]
+""
+//[MFolderTreeAltF11]
+""
+//[MFolderTreeAltF12]
+""
+//[MFolderTreeCtrlF1]
+""
+//[MFolderTreeCtrlF2]
+""
+//[MFolderTreeCtrlF3]
+""
+//[MFolderTreeCtrlF4]
+""
+//[MFolderTreeCtrlF5]
+""
+//[MFolderTreeCtrlF6]
+""
+//[MFolderTreeCtrlF7]
+""
+//[MFolderTreeCtrlF8]
+""
+//[MFolderTreeCtrlF9]
+""
+//[MFolderTreeCtrlF10]
+""
+//[MFolderTreeCtrlF11]
+""
+//[MFolderTreeCtrlF12]
+""
+//[MFolderTreeCtrlShiftF1]
+""
+//[MFolderTreeCtrlShiftF2]
+""
+//[MFolderTreeCtrlShiftF3]
+""
+//[MFolderTreeCtrlShiftF4]
+""
+//[MFolderTreeCtrlShiftF5]
+""
+//[MFolderTreeCtrlShiftF6]
+""
+//[MFolderTreeCtrlShiftF7]
+""
+//[MFolderTreeCtrlShiftF8]
+""
+//[MFolderTreeCtrlShiftF9]
+""
+//[MFolderTreeCtrlShiftF10]
+""
+//[MFolderTreeCtrlShiftF11]
+""
+//[MFolderTreeCtrlShiftF12]
+""
+//[MFolderTreeCtrlAltF1]
+""
+//[MFolderTreeCtrlAltF2]
+""
+//[MFolderTreeCtrlAltF3]
+""
+//[MFolderTreeCtrlAltF4]
+""
+//[MFolderTreeCtrlAltF5]
+""
+//[MFolderTreeCtrlAltF6]
+""
+//[MFolderTreeCtrlAltF7]
+""
+//[MFolderTreeCtrlAltF8]
+""
+//[MFolderTreeCtrlAltF9]
+""
+//[MFolderTreeCtrlAltF10]
+""
+//[MFolderTreeCtrlAltF11]
+""
+//[MFolderTreeCtrlAltF12]
+""
+//[MFolderTreeAltShiftF1]
+""
+//[MFolderTreeAltShiftF2]
+""
+//[MFolderTreeAltShiftF3]
+""
+//[MFolderTreeAltShiftF4]
+""
+//[MFolderTreeAltShiftF5]
+""
+//[MFolderTreeAltShiftF6]
+""
+//[MFolderTreeAltShiftF7]
+""
+//[MFolderTreeAltShiftF8]
+""
+//[MFolderTreeAltShiftF9]
+""
+//[MFolderTreeAltShiftF10]
+""
+//[MFolderTreeAltShiftF11]
+""
+//[MFolderTreeAltShiftF12]
+""
+//[MFolderTreeCtrlAltShiftF1]
+""
+//[MFolderTreeCtrlAltShiftF2]
+""
+//[MFolderTreeCtrlAltShiftF3]
+""
+//[MFolderTreeCtrlAltShiftF4]
+""
+//[MFolderTreeCtrlAltShiftF5]
+""
+//[MFolderTreeCtrlAltShiftF6]
+""
+//[MFolderTreeCtrlAltShiftF7]
+""
+//[MFolderTreeCtrlAltShiftF8]
+""
+//[MFolderTreeCtrlAltShiftF9]
+""
+//[MFolderTreeCtrlAltShiftF10]
+""
+//[MFolderTreeCtrlAltShiftF11]
+""
+//[MFolderTreeCtrlAltShiftF12]
+""
+//[MTreeTitle]
+"Tree 樹"
+//[MCannotSaveTree]
+"Cannot save folders tree to file 無法將資料夾樹儲存到文件"
+//[MReadingTree]
+"Reading the folders tree 讀取資料夾樹"
+
+//[MUserMenuTitle]
+"User menu"
+//[MChooseMenuType]
+"Choose user menu type to edit 選擇要編輯的使用者選單類型"
+//[MChooseMenuMain]
+"&Main 主要的"
+//[MChooseMenuLocal]
+"&Local 本地"
+//[MMainMenuTitle]
+"Main menu 主選單"
+
+// <...menu (User)>
+//[MMainMenuUser]
+"User 使用者"
+//[MMainMenuGlobal]
+"Global 全域"
+//[MLocalMenuTitle]
+"Local menu 本地選單"
+//[MAskDeleteMenuItem]
+"Do you wish to delete the menu item 您是否要刪除選單項"
+//[MAskDeleteSubMenuItem]
+"Do you wish to delete the submenu 您是否希望刪除子選單"
+//[MUserMenuInvalidInputLabel]
+"Invalid format for UserMenu Label 使用者選單標籤格式無效"
+//[MUserMenuInvalidInputHotKey]
+"Invalid format for Hot Key 熱鍵的格式無效"
+
+//[MEditMenuTitle]
+"Edit user menu 編輯使用者選單"
+//[MEditMenuHotKey]
+"&Hot key: 熱鍵:"
+//[MEditMenuLabel]
+"&Label: 標籤:"
+//[MEditMenuCommands]
+"&Commands: 命令:"
+
+//[MAskInsertMenuOrCommand]
+"Do you wish to insert a new command or a new menu? 您是否希望插入新命令或新選單?"
+//[MMenuInsertCommand]
+"Insert command 插入命令"
+//[MMenuInsertMenu]
+"Insert menu 插入選單"
+
+//[MEditSubmenuTitle]
+"Edit submenu label 編輯子選單標籤"
+//[MEditSubmenuHotKey]
+"&Hot key: 熱鍵:"
+//[MEditSubmenuLabel]
+"&Label: 標籤:"
+//[MEditMenuConfirmation]
+"Save changes? 保存變更?"
+//[MEditMenuError]
+"Cannot update menu 無法更新選單"
+
+//[MViewerTitle]
+"Viewer 檢視器"
+//[MViewerCannotOpenFile]
+"Cannot open the file 無法開啟文件"
+// Up to 3 characters
+//[MViewerStatusCol]
+"Col 列"
+
+//[MViewSearchingFor]
+"Searching for 搜尋"
+//[MViewSearchingHex]
+"Searching for bytes 搜尋位元組"
+//[MViewSearchCannotFind]
+"Could not find the string 找不到字串"
+//[MViewSearchCannotFindHex]
+"Could not find the bytes 找不到位元組"
+//[MViewSearchEod]
+"End of the document reached 已到達文件末尾"
+//[MViewSearchFromBegin]
+"Continue from the beginning of the document? 從文檔開頭繼續?"
+//[MViewSearchBod]
+"Begin of the document reached 已到達文件開頭"
+//[MViewSearchFromEnd]
+"Continue from the end of the document? 從文件末尾繼續?"
+//[MViewSearchCycle]
+"The whole document scanned 整個文件掃描"
+//[MViewSearchRepeat]
+"Repeat the search in the document? 在文件中重複搜尋?"
+
+//[MPrintTitle]
+"Print 列印"
+//[MPrintTo]
+"Print {0} to 列印 {0} 至"
+//[MPrintFilesTo]
+"Print {0} files to 列印 {0} 個檔案至"
+//[MPrintingFile]
+"Printing {0} 正在列印 {0}"
+//[MCannotEnumeratePrinters]
+"Cannot enumerate available printers list 無法列舉可用的印表機列表"
+//[MCannotOpenPrinter]
+"Cannot open printer 無法開啟印表機"
+//[MCannotPrint]
+"Cannot print 無法列印"
+
+//[MDescribeFiles]
+"Describe file 描述文件"
+//[MEnterDescription]
+"Enter description for 輸入描述"
+
+//[MReadingDiz]
+"Reading file descriptions 讀取文件描述"
+//[MCannotUpdateDiz]
+"Cannot update file descriptions 無法更新文件描述"
+
+//[MCfgDizTitle]
+"File descriptions 文件描述:"
+//[MCfgDizListNames]
+"Description &list names delimited with commas: 描述和清單名稱以逗號分隔:"
+//[MCfgDizSetHidden]
+"Set \"&Hidden\" attribute to new description lists 將\"隱藏\"屬性設定為新的描述列表"
+//[MCfgDizROUpdate]
+"Update &read only description file 更新唯讀描述文件"
+//[MCfgDizStartPos]
+"&Position of new descriptions in the string 字串中新描述的位置"
+//[MCfgDizNotUpdate]
+"Do &not update descriptions 不更新描述"
+//[MCfgDizUpdateIfDisplayed]
+"Update if &displayed 如果顯示則更新"
+//[MCfgDizAlwaysUpdate]
+"&Always update 始終更新"
+//[MCfgDizAnsiByDefault]
+"Use ANS&I code page by default 預設使用 ANSI 代碼頁"
+//[MCfgDizSaveInUTF]
+"Save in UTF-&8 以 UTF-8 格式儲存"
+
+//[MReadingTitleFiles]
+"Update of panels 面板更新"
+//[MReadingFiles]
+"Reading: {0} files 正在讀取: {0} 個文件"
+//[MOperationNotCompleted]
+"Operation not completed 操作未完成"
+
+//[MEditPanelModes]
+"Edit panel modes 編輯面板模式"
+
+//[MEditPanelModeName]
+"&Name 名稱"
+//[MEditPanelModeTypes]
+"Column &types 列類型"
+//[MEditPanelModeWidths]
+"Column &widths 列寬"
+//[MEditPanelModeStatusTypes]
+"St&atus line column types 狀態行列類型"
+//[MEditPanelModeStatusWidths]
+"Status l&ine column widths 狀態行列寬"
+//[MEditPanelModeFullscreen]
+"&Fullscreen view 全螢幕視圖"
+//[MEditPanelModeAlignExtensions]
+"Ali&gn file extensions 對齊檔案副檔名"
+//[MEditPanelModeAlignFolderExtensions]
+"Align folder e&xtensions 對齊資料夾副檔名"
+//[MEditPanelModeFoldersUpperCase]
+"Show folders in &uppercase 以大寫形式顯示資料夾"
+//[MEditPanelModeFilesLowerCase]
+"Show files in &lowercase 以小寫形式顯示文件"
+//[MEditPanelModeUpperToLowerCase]
+"Show uppercase file names in lower&case 以小寫形式顯示大寫檔名"
+
+//[MSetFolderInfoTitle]
+"Folder description files 資料夾描述文件"
+//[MSetFolderInfoNames]
+"Enter file names delimited with commas (wildcards are allowed) 輸入以逗號分隔的檔案名稱 ( 允許使用萬用字元 )"
+
+//[MScreensTitle]
+"Screens 螢幕"
+//[MScreensPanels]
+"Panels 面板"
+//[MScreensView]
+"View 檢視"
+//[MScreensEdit]
+"Edit 編輯"
+
+//[MAskApplyCommandTitle]
+"Apply command 應用指令"
+//[MAskApplyCommand]
+"Enter command to process selected files 輸入命令來處理選定的文件"
+
+//[MPluginConfigTitle]
+"Plugins configuration 插件配置"
+//[MPluginCommandsMenuTitle]
+"Plugin commands 插件命令"
+
+//[MPreparingList]
+"Preparing files list 準備文件清單"
+
+//[MLangTitle]
+"Main language 主要語言"
+//[MHelpLangTitle]
+"Help language 幫助語言"
+
+//[MDefineMacroTitle]
+"Define macro 定義巨集"
+//[MDefineMacro]
+"Press the desired key 按所需鍵"
+//[MMacroReDefinedKey]
+"Macro key '{0}' already defined. 巨集熱鍵 '{0}' 已定義"
+//[MMacroDeleteKey]
+"Macro key '{0}' will be removed. 巨集熱鍵 '{0}' 將會移除"
+//[MMacroCommonReDefinedKey]
+"Common macro key '{0}' already defined. 通用巨集熱鍵 '{0}' 已定義"
+//[MMacroCommonDeleteKey]
+"Common macro key '{0}' will be removed. 通用巨集熱鍵 '{0}' 將被刪除"
+//[MMacroSequence]
+"Sequence: 序列:"
+//[MMacroReDefinedKey2]
+"Redefine? 重新定義?"
+//[MMacroDeleteKey2]
+"Delete? 刪除?"
+//[MMacroEditKey]
+"Chan&ge 變更"
+
+//[MMacroSettingsTitle]
+"Macro settings for '{0}' 巨集設置於 '{0}'"
+//[MMacroSettingsSequence]
+"Se&quence: 序列:"
+//[MMacroSettingsDescription]
+"&Description: 描述:"
+//[MMacroSettingsEnableOutput]
+"Allo&w screen output while executing macro 執行巨集時允許螢幕輸出"
+//[MMacroSettingsRunAfterStart]
+"Execute after Far &start 執行 Far 啟動後"
+//[MMacroSettingsActivePanel]
+"&Active panel 活動面板"
+//[MMacroSettingsPassivePanel]
+"&Passive panel 被動面板"
+//[MMacroSettingsPluginPanel]
+"P&lugin panel 插件面板"
+//[MMacroSettingsFolders]
+"Execute for &folders 對資料夾執行"
+//[MMacroSettingsSelectionPresent]
+"Se&lection present 選擇顯示"
+//[MMacroSettingsCommandLine]
+"Empty &command line 空白命令列"
+//[MMacroSettingsSelectionBlockPresent]
+"Selection &block present 選擇區塊顯示"
+//[MMacroPluginLuamacroNotLoaded]
+"Plugin LuaMacro is not loaded 插件 LuaMacro 未載入"
+//[MMacroRecordingIsDisabled]
+"Macro recording is disabled 巨集錄製已停用"
+
+//[MCannotSaveFile]
+"Cannot save file 無法儲存文件"
+//[MTextSavedToTemp]
+"Edited text is stored in 編輯後的文字儲存在"
+
+//[MPluginHotKeyTitle]
+"Assign plugin hot key 分配插件熱鍵"
+//[MPluginHotKey]
+"Enter hot key (letter or digit) 輸入熱鍵 ( 字母或數字 )"
+//[MPluginInformation]
+"Plugin information 插件資訊"
+//[MPluginModuleTitle]
+"&Title: 標題:"
+//[MPluginDescription]
+"&Description: 描述:"
+//[MPluginAuthor]
+"&Author: 作者:"
+//[MPluginVersion]
+"&Version: 版本:"
+//[MPluginModulePath]
+"&Module path: 模組路徑:"
+//[MPluginUUID]
+"Plugin &UUID: 插件 UUID:"
+//[MPluginItemUUID]
+"Plugin &item UUID: 插件項目 UUID:"
+//[MPluginPrefix]
+"Plugin &prefix: 插件前綴:"
+//[MExceptionDialogTitle]
+"Oops 糟糕"
+//[MExceptionDialogMessage1]
+"Something went wrong. 出了點問題"
+//[MExceptionDialogMessage2]
+"Please send the bug report to the developers: 請將錯誤報告發送給開發人員:"
+//[MExceptionDialogClipboard]
+"Clipboard 剪貼簿"
+//[MExcTerminate]
+"&Terminate Far 終止 Far"
+//[MExcUnload]
+"&Unload plugin 解除安裝插件"
+//[MExcContinue]
+"Continue 繼續"
+//[MExcFullDump]
+"Full dump 完整轉儲"
+
+//[MNetUserName]
+"User name 使用者名稱"
+//[MNetUserPassword]
+"User password 使用者密碼"
+
+//[MReadFolderError]
+"Cannot read folder contents 無法讀取資料夾內容"
+
+//[MPlgBadVers]
+"This plugin requires more recent version of Far 此插件需要較新版本的 Far"
+//[MPlgRequired]
+"Required Far version is {0}, 所需的 Far 版本為 {0}"
+//[MPlgRequired2]
+"current Far version is {0}. 目前 Far 版本為 {0}"
+//[MPlgLoadPluginError]
+"Error loading plugin 載入插件時出錯"
+
+//[MHelpTitle]
+"Help 幫助"
+//[MHelpActivatorURL]
+"This reference starts an external application 此引用啟動外部應用程式"
+//[MHelpActivatorFormat]
+"with parameter: 附加參數:"
+//[MHelpActivatorQ]
+"Do you wish to start it? 您想要啟動嗎?"
+//[MCannotOpenHelp]
+"Cannot open the file 無法開啟文件"
+//[MHelpTopicNotFound]
+"Requested help topic not found: 未找到請求的說明主題:"
+
+//[MPluginsHelpTitle]
+"Plugins help 插件幫助"
+//[MDocumentsHelpTitle]
+"Documents help 文件幫助"
+//[MHelpSearchCannotFind]
+"Could not find the string 找不到字串"
+
+// Help KeyBar F1-12
+//[MHelpF1]
+"Help 幫助"
+//[MHelpF2]
+""
+//[MHelpF3]
+""
+//[MHelpF4]
+""
+//[MHelpF5]
+"Zoom 縮放"
+//[MHelpF6]
+""
+//[MHelpF7]
+"Search 搜尋"
+//[MHelpF8]
+""
+//[MHelpF9]
+""
+//[MHelpF10]
+"Quit 退出"
+//[MHelpF11]
+""
+//[MHelpF12]
+""
+
+// Help KeyBar Shift+F1-12
+//[MHelpShiftF1]
+"Index 索引"
+//[MHelpShiftF2]
+"Plugin 插件"
+//[MHelpShiftF3]
+""
+//[MHelpShiftF4]
+""
+//[MHelpShiftF5]
+""
+//[MHelpShiftF6]
+""
+//[MHelpShiftF7]
+""
+//[MHelpShiftF8]
+""
+//[MHelpShiftF9]
+""
+//[MHelpShiftF10]
+""
+//[MHelpShiftF11]
+""
+//[MHelpShiftF12]
+""
+
+// Help KeyBar Alt+F1-12
+//[MHelpAltF1]
+"Prev 上一個"
+//[MHelpAltF2]
+""
+//[MHelpAltF3]
+""
+//[MHelpAltF4]
+""
+//[MHelpAltF5]
+""
+//[MHelpAltF6]
+""
+//[MHelpAltF7]
+""
+//[MHelpAltF8]
+""
+//[MHelpAltF9]
+"Video"
+//[MHelpAltF10]
+""
+//[MHelpAltF11]
+""
+//[MHelpAltF12]
+""
+
+// Help KeyBar Ctrl+F1-12
+//[MHelpCtrlF1]
+""
+//[MHelpCtrlF2]
+""
+//[MHelpCtrlF3]
+""
+//[MHelpCtrlF4]
+""
+//[MHelpCtrlF5]
+""
+//[MHelpCtrlF6]
+""
+//[MHelpCtrlF7]
+""
+//[MHelpCtrlF8]
+""
+//[MHelpCtrlF9]
+""
+//[MHelpCtrlF10]
+""
+//[MHelpCtrlF11]
+""
+//[MHelpCtrlF12]
+""
+
+// Help KeyBar AltShiftF1-12
+//[MHelpAltShiftF1]
+""
+//[MHelpAltShiftF2]
+""
+//[MHelpAltShiftF3]
+""
+//[MHelpAltShiftF4]
+""
+//[MHelpAltShiftF5]
+""
+//[MHelpAltShiftF6]
+""
+//[MHelpAltShiftF7]
+""
+//[MHelpAltShiftF8]
+""
+//[MHelpAltShiftF9]
+""
+//[MHelpAltShiftF10]
+""
+//[MHelpAltShiftF11]
+""
+//[MHelpAltShiftF12]
+""
+
+// Help KeyBar CtrlShiftF1-12
+//[MHelpCtrlShiftF1]
+""
+//[MHelpCtrlShiftF2]
+""
+//[MHelpCtrlShiftF3]
+""
+//[MHelpCtrlShiftF4]
+""
+//[MHelpCtrlShiftF5]
+""
+//[MHelpCtrlShiftF6]
+""
+//[MHelpCtrlShiftF7]
+""
+//[MHelpCtrlShiftF8]
+""
+//[MHelpCtrlShiftF9]
+""
+//[MHelpCtrlShiftF10]
+""
+//[MHelpCtrlShiftF11]
+""
+//[MHelpCtrlShiftF12]
+""
+
+// Help KeyBar CtrlAltF1-12
+//[MHelpCtrlAltF1]
+""
+//[MHelpCtrlAltF2]
+""
+//[MHelpCtrlAltF3]
+""
+//[MHelpCtrlAltF4]
+""
+//[MHelpCtrlAltF5]
+""
+//[MHelpCtrlAltF6]
+""
+//[MHelpCtrlAltF7]
+""
+//[MHelpCtrlAltF8]
+""
+//[MHelpCtrlAltF9]
+""
+//[MHelpCtrlAltF10]
+""
+//[MHelpCtrlAltF11]
+""
+//[MHelpCtrlAltF12]
+""
+
+// Help KeyBar CtrlAltShiftF1-12
+//[MHelpCtrlAltShiftF1]
+""
+//[MHelpCtrlAltShiftF2]
+""
+//[MHelpCtrlAltShiftF3]
+""
+//[MHelpCtrlAltShiftF4]
+""
+//[MHelpCtrlAltShiftF5]
+""
+//[MHelpCtrlAltShiftF6]
+""
+//[MHelpCtrlAltShiftF7]
+""
+//[MHelpCtrlAltShiftF8]
+""
+//[MHelpCtrlAltShiftF9]
+""
+//[MHelpCtrlAltShiftF10]
+""
+//[MHelpCtrlAltShiftF11]
+""
+//[MHelpCtrlAltShiftF12]
+""
+
+// InfoPanel KeyBar F1-F12
+//[MInfoF1]
+"Help 幫助"
+//[MInfoF2]
+"Wrap 換行"
+//[MInfoF3]
+"VieDiz 檢視說"
+//[MInfoF4]
+"EdtDiz 編輯說"
+//[MInfoF5]
+""
+//[MInfoF6]
+""
+//[MInfoF7]
+"Search 搜尋"
+//[MInfoF8]
+"ANSI"
+//[MInfoF9]
+"ConfMn 設定選單"
+//[MInfoF10]
+"Quit 退出"
+//[MInfoF11]
+"Plugin 插件"
+//[MInfoF12]
+"Screen 螢幕"
+
+// InfoPanel KeyBar Shift+F1-F12
+//[MInfoShiftF1]
+""
+//[MInfoShiftF2]
+"WWrap W換行"
+//[MInfoShiftF3]
+""
+//[MInfoShiftF4]
+""
+//[MInfoShiftF5]
+""
+//[MInfoShiftF6]
+""
+//[MInfoShiftF7]
+"Next 下一個"
+//[MInfoShiftF8]
+"CodePg 分頁集"
+//[MInfoShiftF9]
+"Save 保存"
+//[MInfoShiftF10]
+"Last 最後的"
+//[MInfoShiftF11]
+""
+//[MInfoShiftF12]
+""
+
+// InfoPanel KeyBar Alt+F1-F12
+//[MInfoAltF1]
+"Left 左"
+//[MInfoAltF2]
+"Right 右"
+//[MInfoAltF3]
+""
+//[MInfoAltF4]
+""
+//[MInfoAltF5]
+""
+//[MInfoAltF6]
+""
+//[MInfoAltF7]
+"Find 尋找"
+//[MInfoAltF8]
+"Goto 跳至"
+//[MInfoAltF9]
+"Video 影片"
+//[MInfoAltF10]
+"Tree 樹"
+//[MInfoAltF11]
+"ViewHs 檢視Hs"
+//[MInfoAltF12]
+"FoldHs 折疊Hs"
+
+// InfoPanel KeyBar Ctrl+F1-F12
+//[MInfoCtrlF1]
+"Left"
+//[MInfoCtrlF2]
+"Right"
+//[MInfoCtrlF3]
+""
+//[MInfoCtrlF4]
+""
+//[MInfoCtrlF5]
+""
+//[MInfoCtrlF6]
+""
+//[MInfoCtrlF7]
+""
+//[MInfoCtrlF8]
+""
+//[MInfoCtrlF9]
+""
+//[MInfoCtrlF10]
+""
+//[MInfoCtrlF11]
+""
+//[MInfoCtrlF12]
+"Mode"
+
+// InfoPanel KeyBar AltShiftF1-12
+//[MInfoAltShiftF1]
+""
+//[MInfoAltShiftF2]
+""
+//[MInfoAltShiftF3]
+""
+//[MInfoAltShiftF4]
+""
+//[MInfoAltShiftF5]
+""
+//[MInfoAltShiftF6]
+""
+//[MInfoAltShiftF7]
+""
+//[MInfoAltShiftF8]
+""
+//[MInfoAltShiftF9]
+""
+//[MInfoAltShiftF10]
+""
+//[MInfoAltShiftF11]
+""
+//[MInfoAltShiftF12]
+""
+
+// InfoPanel KeyBar CtrlShiftF1-12
+//[MInfoCtrlShiftF1]
+""
+//[MInfoCtrlShiftF2]
+""
+//[MInfoCtrlShiftF3]
+""
+//[MInfoCtrlShiftF4]
+""
+//[MInfoCtrlShiftF5]
+""
+//[MInfoCtrlShiftF6]
+""
+//[MInfoCtrlShiftF7]
+""
+//[MInfoCtrlShiftF8]
+""
+//[MInfoCtrlShiftF9]
+""
+//[MInfoCtrlShiftF10]
+""
+//[MInfoCtrlShiftF11]
+""
+//[MInfoCtrlShiftF12]
+""
+
+// InfoPanel KeyBar CtrlAltF1-12
+//[MInfoCtrlAltF1]
+""
+//[MInfoCtrlAltF2]
+""
+//[MInfoCtrlAltF3]
+""
+//[MInfoCtrlAltF4]
+""
+//[MInfoCtrlAltF5]
+""
+//[MInfoCtrlAltF6]
+""
+//[MInfoCtrlAltF7]
+""
+//[MInfoCtrlAltF8]
+""
+//[MInfoCtrlAltF9]
+""
+//[MInfoCtrlAltF10]
+""
+//[MInfoCtrlAltF11]
+""
+//[MInfoCtrlAltF12]
+""
+
+// InfoPanel KeyBar CtrlAltShiftF1-12
+//[MInfoCtrlAltShiftF1]
+""
+//[MInfoCtrlAltShiftF2]
+""
+//[MInfoCtrlAltShiftF3]
+""
+//[MInfoCtrlAltShiftF4]
+""
+//[MInfoCtrlAltShiftF5]
+""
+//[MInfoCtrlAltShiftF6]
+""
+//[MInfoCtrlAltShiftF7]
+""
+//[MInfoCtrlAltShiftF8]
+""
+//[MInfoCtrlAltShiftF9]
+""
+//[MInfoCtrlAltShiftF10]
+""
+//[MInfoCtrlAltShiftF11]
+""
+//[MInfoCtrlAltShiftF12]
+""
+
+// QView KeyBar F1-F12
+//[MQViewF1]
+"Help 幫助"
+//[MQViewF2]
+"Wrap 換行"
+//[MQViewF3]
+"View 檢視"
+//[MQViewF4]
+"Hex 十六進位"
+//[MQViewF5]
+""
+//[MQViewF6]
+""
+//[MQViewF7]
+"Search 搜尋"
+//[MQViewF8]
+"ANSI"
+//[MQViewF9]
+"ConfMn 控制選單"
+//[MQViewF10]
+"Quit 退出"
+//[MQViewF11]
+"Plugin 插件"
+//[MQViewF12]
+"Screen 螢幕"
+
+// QView KeyBar Shift+F1-F12
+//[MQViewShiftF1]
+""
+//[MQViewShiftF2]
+"WWrap W換行"
+//[MQViewShiftF3]
+""
+//[MQViewShiftF4]
+""
+//[MQViewShiftF5]
+""
+//[MQViewShiftF6]
+""
+//[MQViewShiftF7]
+"Next 下一個"
+//[MQViewShiftF8]
+"CodePg 分頁集"
+//[MQViewShiftF9]
+"Save 保存"
+//[MQViewShiftF10]
+"Last 最後的"
+//[MQViewShiftF11]
+""
+//[MQViewShiftF12]
+""
+
+// QView KeyBar Alt+F1-F12
+//[MQViewAltF1]
+"Left"
+//[MQViewAltF2]
+"Right"
+//[MQViewAltF3]
+""
+//[MQViewAltF4]
+""
+//[MQViewAltF5]
+""
+//[MQViewAltF6]
+""
+//[MQViewAltF7]
+"Find"
+//[MQViewAltF8]
+"Goto 跳至"
+//[MQViewAltF9]
+"Video 影片"
+//[MQViewAltF10]
+"Tree 樹"
+//[MQViewAltF11]
+"ViewHs 檢視Hs"
+//[MQViewAltF12]
+"FoldHs 折疊Hs"
+
+// QView KeyBar Ctrl+F1-F12
+//[MQViewCtrlF1]
+"Left 左"
+//[MQViewCtrlF2]
+"Right 右"
+//[MQViewCtrlF3]
+""
+//[MQViewCtrlF4]
+""
+//[MQViewCtrlF5]
+""
+//[MQViewCtrlF6]
+""
+//[MQViewCtrlF7]
+""
+//[MQViewCtrlF8]
+""
+//[MQViewCtrlF9]
+""
+//[MQViewCtrlF10]
+""
+//[MQViewCtrlF11]
+""
+//[MQViewCtrlF12]
+""
+
+// QView KeyBar AltShiftF1-12
+//[MQViewAltShiftF1]
+""
+//[MQViewAltShiftF2]
+""
+//[MQViewAltShiftF3]
+""
+//[MQViewAltShiftF4]
+""
+//[MQViewAltShiftF5]
+""
+//[MQViewAltShiftF6]
+""
+//[MQViewAltShiftF7]
+""
+//[MQViewAltShiftF8]
+""
+//[MQViewAltShiftF9]
+""
+//[MQViewAltShiftF10]
+""
+//[MQViewAltShiftF11]
+""
+//[MQViewAltShiftF12]
+""
+
+// QView KeyBar CtrlShiftF1-12
+//[MQViewCtrlShiftF1]
+""
+//[MQViewCtrlShiftF2]
+""
+//[MQViewCtrlShiftF3]
+""
+//[MQViewCtrlShiftF4]
+""
+//[MQViewCtrlShiftF5]
+""
+//[MQViewCtrlShiftF6]
+""
+//[MQViewCtrlShiftF7]
+""
+//[MQViewCtrlShiftF8]
+""
+//[MQViewCtrlShiftF9]
+""
+//[MQViewCtrlShiftF10]
+""
+//[MQViewCtrlShiftF11]
+""
+//[MQViewCtrlShiftF12]
+""
+
+// QView KeyBar CtrlAltF1-12
+//[MQViewCtrlAltF1]
+""
+//[MQViewCtrlAltF2]
+""
+//[MQViewCtrlAltF3]
+""
+//[MQViewCtrlAltF4]
+""
+//[MQViewCtrlAltF5]
+""
+//[MQViewCtrlAltF6]
+""
+//[MQViewCtrlAltF7]
+""
+//[MQViewCtrlAltF8]
+""
+//[MQViewCtrlAltF9]
+""
+//[MQViewCtrlAltF10]
+""
+//[MQViewCtrlAltF11]
+""
+//[MQViewCtrlAltF12]
+""
+
+// QView KeyBar CtrlAltShiftF1-12
+//[MQViewCtrlAltShiftF1]
+""
+//[MQViewCtrlAltShiftF2]
+""
+//[MQViewCtrlAltShiftF3]
+""
+//[MQViewCtrlAltShiftF4]
+""
+//[MQViewCtrlAltShiftF5]
+""
+//[MQViewCtrlAltShiftF6]
+""
+//[MQViewCtrlAltShiftF7]
+""
+//[MQViewCtrlAltShiftF8]
+""
+//[MQViewCtrlAltShiftF9]
+""
+//[MQViewCtrlAltShiftF10]
+""
+//[MQViewCtrlAltShiftF11]
+""
+//[MQViewCtrlAltShiftF12]
+""
+
+// Tree KeyBar F1-F12
+//[MKBTreeF1]
+"Help 幫助"
+//[MKBTreeF2]
+"UserMn 使用者選單"
+//[MKBTreeF3]
+""
+//[MKBTreeF4]
+"Attr 屬性"
+//[MKBTreeF5]
+"Copy 複製"
+//[MKBTreeF6]
+"RenMov 移動"
+//[MKBTreeF7]
+"MkFold 建立目錄"
+//[MKBTreeF8]
+"Delete 刪除"
+//[MKBTreeF9]
+"ConfMn 控制選單"
+//[MKBTreeF10]
+"Quit 退出"
+//[MKBTreeF11]
+"Plugin 插件"
+//[MKBTreeF12]
+"Screen 螢幕"
+
+// Tree KeyBar Shift+F1-F12
+//[MKBTreeShiftF1]
+""
+//[MKBTreeShiftF2]
+""
+//[MKBTreeShiftF3]
+""
+//[MKBTreeShiftF4]
+""
+//[MKBTreeShiftF5]
+"Copy 複製"
+//[MKBTreeShiftF6]
+"Rename 重新命名"
+//[MKBTreeShiftF7]
+""
+//[MKBTreeShiftF8]
+""
+//[MKBTreeShiftF9]
+"Save 保存"
+//[MKBTreeShiftF10]
+"Last 最後的"
+//[MKBTreeShiftF11]
+"Group 群組"
+//[MKBTreeShiftF12]
+"SelUp 選擇是否"
+
+// Tree KeyBar Alt+F1-F12
+//[MKBTreeAltF1]
+"Left 左"
+//[MKBTreeAltF2]
+"Right 右"
+//[MKBTreeAltF3]
+""
+//[MKBTreeAltF4]
+""
+//[MKBTreeAltF5]
+""
+//[MKBTreeAltF6]
+""
+//[MKBTreeAltF7]
+"Find 尋找"
+//[MKBTreeAltF8]
+"Histry 歷史紀錄"
+//[MKBTreeAltF9]
+"Video 影片"
+//[MKBTreeAltF10]
+"Tree 樹"
+//[MKBTreeAltF11]
+"ViewHs 檢視Hs"
+//[MKBTreeAltF12]
+"FoldHs 折疊Hs"
+
+// Tree KeyBar Ctrl+F1-F12
+//[MKBTreeCtrlF1]
+"Left 左"
+//[MKBTreeCtrlF2]
+"Right 右"
+//[MKBTreeCtrlF3]
+""
+//[MKBTreeCtrlF4]
+""
+//[MKBTreeCtrlF5]
+""
+//[MKBTreeCtrlF6]
+""
+//[MKBTreeCtrlF7]
+""
+//[MKBTreeCtrlF8]
+""
+//[MKBTreeCtrlF9]
+""
+//[MKBTreeCtrlF10]
+""
+//[MKBTreeCtrlF11]
+""
+//[MKBTreeCtrlF12]
+""
+
+// Tree KeyBar AltShiftF1-12
+//[MKBTreeAltShiftF1]
+""
+//[MKBTreeAltShiftF2]
+""
+//[MKBTreeAltShiftF3]
+""
+//[MKBTreeAltShiftF4]
+""
+//[MKBTreeAltShiftF5]
+""
+//[MKBTreeAltShiftF6]
+""
+//[MKBTreeAltShiftF7]
+""
+//[MKBTreeAltShiftF8]
+""
+//[MKBTreeAltShiftF9]
+""
+//[MKBTreeAltShiftF10]
+""
+//[MKBTreeAltShiftF11]
+""
+//[MKBTreeAltShiftF12]
+""
+
+// Tree KeyBar CtrlShiftF1-12
+//[MKBTreeCtrlShiftF1]
+""
+//[MKBTreeCtrlShiftF2]
+""
+//[MKBTreeCtrlShiftF3]
+""
+//[MKBTreeCtrlShiftF4]
+""
+//[MKBTreeCtrlShiftF5]
+""
+//[MKBTreeCtrlShiftF6]
+""
+//[MKBTreeCtrlShiftF7]
+""
+//[MKBTreeCtrlShiftF8]
+""
+//[MKBTreeCtrlShiftF9]
+""
+//[MKBTreeCtrlShiftF10]
+""
+//[MKBTreeCtrlShiftF11]
+""
+//[MKBTreeCtrlShiftF12]
+""
+
+// Tree KeyBar CtrlAltF1-12
+//[MKBTreeCtrlAltF1]
+""
+//[MKBTreeCtrlAltF2]
+""
+//[MKBTreeCtrlAltF3]
+""
+//[MKBTreeCtrlAltF4]
+""
+//[MKBTreeCtrlAltF5]
+""
+//[MKBTreeCtrlAltF6]
+""
+//[MKBTreeCtrlAltF7]
+""
+//[MKBTreeCtrlAltF8]
+""
+//[MKBTreeCtrlAltF9]
+""
+//[MKBTreeCtrlAltF10]
+""
+//[MKBTreeCtrlAltF11]
+""
+//[MKBTreeCtrlAltF12]
+""
+
+// Tree KeyBar CtrlAltShiftF1-12
+//[MKBTreeCtrlAltShiftF1]
+""
+//[MKBTreeCtrlAltShiftF2]
+""
+//[MKBTreeCtrlAltShiftF3]
+""
+//[MKBTreeCtrlAltShiftF4]
+""
+//[MKBTreeCtrlAltShiftF5]
+""
+//[MKBTreeCtrlAltShiftF6]
+""
+//[MKBTreeCtrlAltShiftF7]
+""
+//[MKBTreeCtrlAltShiftF8]
+""
+//[MKBTreeCtrlAltShiftF9]
+""
+//[MKBTreeCtrlAltShiftF10]
+""
+//[MKBTreeCtrlAltShiftF11]
+""
+//[MKBTreeCtrlAltShiftF12]
+""
+
+//[MCopyTimeInfoElapsed]
+"Time: 時間"
+//[MCopyTimeInfoRemaining]
+"Remaining: 剩餘時間"
+// Bytes per second
+//[MCopyTimeInfoSpeed]
+"B/s 位元組(字節)/每秒"
+
+//[MKeyESCWasPressed]
+"Operation has been interrupted 操作已中斷"
+//[MDoYouWantToCancel]
+"Do you really want to cancel it? 您確定要取消它嗎?"
+//[MDoYouWantToContinue]
+"Continue work? 繼續工作嗎?"
+
+//[MCheckingFileInPlugin]
+"The file is being checked by the plugin 插件正在檢查該文件"
+
+//[MDialogType]
+"Dialog 對話"
+//[MHelpType]
+"Help 幫助"
+//[MFolderTreeType]
+"FolderTree 資料夾樹"
+//[MVMenuType]
+"Menu 選單"
+
+//[MIncorrectMask]
+"File-mask string contains errors 檔案遮罩字串包含錯誤"
+
+//[MPanelBracketsForLongName]
+"{}"
+
+//[MComspecNotFound]
+"Environment variable %COMSPEC% not defined 環境變數未定義"
+
+//[MFileFilterTitle]
+"Filter 篩選"
+//[MFileHilightTitle]
+"Files highlighting 文件高亮"
+//[MFileFilterName]
+"&Name: 檔名:"
+//[MFileFilterMatchMask]
+"&Mask: 遮罩:"
+//[MFileFilterSize]
+"Si&ze: 大小:"
+// up to 4 characters
+//[MFileFilterSizeFromSign]
+">&="
+// up to 4 characters
+//[MFileFilterSizeToSign]
+"&<="
+//[MFileHardLinksCount]
+"Has more than one hardlin&k 具有多個硬連結"
+//[MFileFilterDate]
+"Date&/Time: 日期/時間:"
+//[MFileFilterWrite]
+"&write 寫入"
+//[MFileFilterCreation]
+"&creation 創建"
+//[MFileFilterAccess]
+"&access 存取"
+//[MFileFilterChange]
+"c&hange 改變"
+//[MFileFilterDateRelative]
+"Relat&ive 相對的"
+// up to 4 characters
+//[MFileFilterDateAfterSign]
+">="
+// up to 4 characters
+//[MFileFilterDateBeforeSign]
+"<="
+//[MFileFilterCurrent]
+"C&urrent 目前的"
+//[MFileFilterBlank]
+"B&lank 空白的"
+//[MFileFilterAttr]
+"Attri&butes 屬性"
+//[MFileFilterAttrChoose]
+"&..."
+//[MFileFilterAttrReadOnly]
+"&Read only 唯讀"
+//[MFileFilterAttrArcive]
+"&Archive 歸檔"
+//[MFileFilterAttrHidden]
+"&Hidden 隱藏"
+//[MFileFilterAttrSystem]
+"&System 系統"
+//[MFileFilterAttrCompressed]
+"&Compressed 壓縮"
+//[MFileFilterAttrEncrypted]
+"&Encrypted 加密"
+//[MFileFilterAttrDirectory]
+"&Directory 目錄"
+//[MFileFilterAttrNotIndexed]
+"Not &indexed 未編入索引"
+//[MFileFilterAttrSparse]
+"S&parse 稀疏"
+//[MFileFilterAttrTemporary]
+"Temporar&y 暫時的"
+//[MFileFilterAttrReparse]
+"Reparse poin&t 重新解析點"
+//[MFileFilterAttrOffline]
+"O&ffline 離線"
+//[MFileFilterAttrVirtual]
+"&Virtual 虛擬的"
+//[MFileFilterAttrIntegrityStream]
+"Inte&grity stream 完整性資料流"
+//[MFileFilterAttrNoScrubData]
+"No scru&b data 無清理數據"
+//[MFileFilterAttrPinned]
+"Pi&nned 固定"
+//[MFileFilterAttrUnpinned]
+"&Unpinned 取消固定"
+//[MFileFilterAttrRecallOnOpen]
+"Recal&l on open 打開時調用"
+//[MFileFilterAttrRecallOnDataAccess]
+"Recall &on data access 資料存取調用"
+//[MFileFilterAttrStrictlySequential]
+"Strictly se&quential 嚴格順序"
+//[MFileFilterAttrDevice]
+"Device 裝置"
+//[MFileFilterReset]
+"&Reset 重置"
+//[MFileFilterMakeTransparent]
+"Make &transparent 使透明"
+//[MFileFilterCancel]
+"Cancel 取消"
+//[MBadFileSizeFormat]
+"File size field is incorrectly filled 文件大小欄位填寫錯誤"
+
+//[MFarTitleAddonsAdmin]
+"Administrator 管理員"
+//[MElevationRequired]
+"You need to provide administrator permission 您需要提供管理員權限"
+//[MElevationRequiredPrivileges]
+"Additional privileges required 需要額外權限"
+//[MElevationRequiredProcess]
+"to process this object: 處理該物件:"
+//[MElevationRequiredDelete]
+"to delete this object: 刪除該物件:"
+//[MElevationRequiredCopy]
+"to copy this object: 複製該物件:"
+//[MElevationRequiredMove]
+"to move this object: 移動該物件:"
+//[MElevationRequiredReplace]
+"to replace this object: 替換該物件:"
+//[MElevationRequiredGetAttributes]
+"to get attributes of this object: 取得該物件的屬性:"
+//[MElevationRequiredSetAttributes]
+"to set attributes of this object: 設定此物件的屬性:"
+//[MElevationRequiredHardLink]
+"to create this hard link: 建立此硬連結:"
+//[MElevationRequiredSymLink]
+"to create this symbolic link: 建立此符號連結:"
+//[MElevationRequiredRecycle]
+"to move this object to recycle bin: 將此物件移至回收站:"
+//[MElevationRequiredList]
+"to list this object: 列出該物件:"
+//[MElevationRequiredSetOwner]
+"to set owner of this object: 設定此物件的擁有者:"
+//[MElevationRequiredOpen]
+"to open this object: 開啟此物件:"
+//[MElevationRequiredEncryptFile]
+"to encrypt this object: 加密該物件:"
+//[MElevationRequiredDecryptFile]
+"to decrypt this object: 解密該物件:"
+//[MElevationDoForAll]
+"Do this for &all current objects 對所有目前物件執行此操作"
+//[MElevationDoNotAskAgainInTheCurrentSession]
+"Do not ask again in the current session 目前會話中不再詢問"
+//[MCompletionHistoryTitle]
+"History 歷史紀錄"
+//[MCompletionEnvironmentTitle]
+"Environment 環境"
+//[MCompletionFilesTitle]
+"Files 文件"
+//[MObjectLockedReason]
+"Object is being {0} in: 對象正在:"
+//[MObjectLockedReasonPlayed]
+"played 已播放"
+//[MObjectLockedReasonEdited]
+"edited 已編輯"
+//[MObjectLockedReasonOpened]
+"opened 已開啟"
+//[MObjectLockedAndMore]
+"and {0} more processes. 更多進程"
+//[MObjectLockedSwitchTo]
+"Switch to 切換到"
+//[MObjectLockedClose]
+"Close file 關閉文件"
+//[MObjectLockedReasonSessionMismatch]
+"One or more processes are running in another Terminal Services session. 另一個終端機服務會話中 正在運行一個或多個進程"
+//[MObjectLockedReasonCriticalProcess]
+"One or more processes are critical processes. 一個或多個進程是關鍵進程"
+//[MObjectLockedReasonCriticalService]
+"One or more services are critical services. 一項或多項服務是關鍵服務"
+//[MObjectLockedReasonDetectedSelf]
+"The file is opened by the current process. 該文件由當前進程打開"
+//[MProblemDb]
+"Problem configuration DB 問題配置資料庫"
+//[MShowConfigFolders]
+"Show configuration folders 顯示設定目錄"
+//[MBadLanguageFile]
+"Incorrect language file 語言檔案不正確"
+//[MLanguageStringNotFound]
+"String {0} not found 未找到字串"
+//[MCharacterIsNotSupportedByTheCodepage]
+"The character "{0}" ({1}) is not supported by the selected code page 所選代碼頁不支援該字符"
+// keys
+//[MKeyLaunchMediaSelect]
+""
+//[MKeyBrowserFavorites]
+""
+//[MKeyMediaPrevTrack]
+""
+//[MKeyMediaPlayPause]
+""
+//[MKeyMediaNextTrack]
+""
+//[MKeyBrowserRefresh]
+""
+//[MKeyBrowserForward]
+""
+//[MKeyBrowserSearch]
+""
+//[MKeyMswheelRight]
+""
+//[MKeyMswheelDown]
+""
+//[MKeyMswheelLeft]
+""
+//[MKeyBrowserStop]
+""
+//[MKeyBrowserHome]
+""
+//[MKeyBrowserBack]
+""
+//[MKeyVolumeMute]
+""
+//[MKeyVolumeDown]
+""
+//[MKeyScrolllock]
+""
+//[MKeyLaunchMail]
+""
+//[MKeyLaunchApp2]
+""
+//[MKeyLaunchApp1]
+""
+//[MKeyMswheelUp]
+""
+//[MKeyMediaStop]
+""
+//[MKeyBackslash]
+""
+//[MKeyMsm1click]
+""
+//[MKeyMsm2click]
+""
+//[MKeyMsm3click]
+""
+//[MKeyMslclick]
+""
+//[MKeyMsrclick]
+""
+//[MKeyVolumeUp]
+""
+//[MKeySubtract]
+"Gray -"
+//[MKeyNumenter]
+""
+//[MKeyMultiply]
+"Gray *"
+//[MKeyCapslock]
+""
+//[MKeyPrntscrn]
+""
+//[MKeyNumlock]
+""
+//[MKeyDecimal]
+""
+//[MKeyStandby]
+""
+//[MKeyDivide]
+""
+//[MKeyNumdel]
+""
+//[MKeySpace]
+""
+//[MKeyRight]
+""
+//[MKeyPause]
+""
+//[MKeyEnter]
+""
+//[MKeyClear]
+""
+//[MKeyBreak]
+""
+//[MKeyPgup]
+""
+//[MKeyPgdn]
+""
+//[MKeyLeft]
+""
+//[MKeyHome]
+""
+//[MKeyDown]
+""
+//[MKeyApps]
+""
+//[MKeyRwin]
+""
+//[MKeyNumpad9]
+""
+//[MKeyNumpad8]
+""
+//[MKeyNumpad7]
+""
+//[MKeyNumpad6]
+""
+//[MKeyNumpad5]
+""
+//[MKeyNumpad4]
+""
+//[MKeyNumpad3]
+""
+//[MKeyNumpad2]
+""
+//[MKeyNumpad1]
+""
+//[MKeyNumpad0]
+""
+//[MKeyLwin]
+""
+//[MKeyTab]
+""
+//[MKeyIns]
+""
+//[MKeyF10]
+""
+//[MKeyF11]
+""
+//[MKeyF12]
+""
+//[MKeyF13]
+""
+//[MKeyF14]
+""
+//[MKeyF15]
+""
+//[MKeyF16]
+""
+//[MKeyF17]
+""
+//[MKeyF18]
+""
+//[MKeyF19]
+""
+//[MKeyF20]
+""
+//[MKeyF21]
+""
+//[MKeyF22]
+""
+//[MKeyF23]
+""
+//[MKeyF24]
+""
+//[MKeyEsc]
+""
+//[MKeyEnd]
+""
+//[MKeyDel]
+""
+//[MKeyAdd]
+"Gray +"
+//[MKeyUp]
+""
+//[MKeyF9]
+""
+//[MKeyF8]
+""
+//[MKeyF7]
+""
+//[MKeyF6]
+""
+//[MKeyF5]
+""
+//[MKeyF4]
+""
+//[MKeyF3]
+""
+//[MKeyF2]
+""
+//[MKeyF1]
+""
+//[MKeyBs]
+""
+//[MKeyBackbracket]
+""
+//[MKeyQuote]
+""
+//[MKeyBracket]
+""
+//[MKeyColon]
+""
+//[MKeySemicolon]
+""
+//[MKeySlash]
+""
+//[MKeyDot]
+""
+//[MKeyComma]
+""
+//[MKeyRCtrl]
+""
+//[MKeyShift]
+""
+//[MKeyCtrl]
+""
+//[MKeyRAlt]
+""
+// keys end
+//[MKeyAlt]
+""
+
+//[MNewFileName]
+"New_File_{0:04}-{1:02}-{2:02}_{3:02}.{4:02}.{5:02}.{6:03}.txt"
